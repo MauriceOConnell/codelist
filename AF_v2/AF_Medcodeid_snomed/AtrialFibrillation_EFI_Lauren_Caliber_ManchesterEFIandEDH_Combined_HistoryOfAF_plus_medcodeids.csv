@@ -1,0 +1,6 @@
+,SnomedCTConceptId,MedCodeId,Observations,OrigReadCode,CleansedReadCode,Term.x,SnomedDescriptionId,Release,EmisCodeCategoryId,Term.y,Disease,Otherinstructions,origin,Comments
+1,1.96371E+14,294601000000110,100000,212R,212R.00,Atrial fibrillation resolved,294601000000110,NA,27,Atrial fibrillation resolved,,NA,,NA
+2,312442005,6016401000006115,5,^ESCTHI601640,NA,History of atrial fibrillation,2986292016,NA,32,History of atrial fibrillation (situation),Atrial Fibrillation,NA,['Caliber AND Manchester'],NA
+3,312442005,456154015,100000,14AN,14AN.00,H/O: atrial fibrillation,456154015,NA,32,History of atrial fibrillation (situation),Atrial Fibrillation,NA,['Caliber AND Manchester'],NA
+4,428076002,2692063011,4000,14AR,14AR.00,History of atrial flutter,2692063011,NA,32,History of atrial flutter (situation),Atrial Fibrillation,NA,['Caliber'],NA
+5,440028005,636721000000112,5000,G5734,G573400,Permanent atrial fibrillation,2793259018,NA,32,Permanent atrial fibrillation,,NA,,NA

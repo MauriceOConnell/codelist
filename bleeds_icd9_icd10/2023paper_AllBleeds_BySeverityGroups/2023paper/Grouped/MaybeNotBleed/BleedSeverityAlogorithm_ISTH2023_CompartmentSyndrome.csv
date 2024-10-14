@@ -1,0 +1,16 @@
+﻿ICD-9_or_10-CM,Description,GroupNumber,Grouping,Table,ICD9_or_10
+729.71  ,Non-traumatic compartment syndrome of upper extremity ,??,??,Supplementary Table 1: Critical organ bleed disease codes,ICD-9-CM
+729.72  ,Non-traumatic compartment syndrome of lower extremity ,??,??,Supplementary Table 1: Critical organ bleed disease codes,ICD-9-CM
+729.73,Non-traumatic compartment syndrome of abdomen ,??,??,Supplementary Table 1: Critical organ bleed disease codes,ICD-9-CM
+729.79,Non-traumatic compartment syndrome of other sites ,??,??,Supplementary Table 1: Critical organ bleed disease codes,ICD-9-CM
+ M79.A,Non-traumatic compartment syndrome ,??,??,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+M79.A1,Non-traumatic compartment syndrome of upper extremity,??,??,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+M79.A11,Non-traumatic compartment syndrome of right upper extremity,??,??,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+M79.A12,Non-traumatic compartment syndrome of left upper extremity,??,??,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+M79.A19,Non-traumatic compartment syndrome of unspecified upper extremity,??,??,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+M79.A2,Non-traumatic compartment syndrome of lower extremity,??,??,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+M79.A21, Non-traumatic compartment syndrome of right lower extremity,??,??,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+M79.A22,Non-traumatic compartment syndrome of left lower extremity,??,??,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+M79.A29,Non-traumatic compartment syndrome of unspecified lower extremity ,??,??,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+ M79.A3 ,Non-traumatic compartment syndrome of abdomen,??,??,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+M79.A9,Non-traumatic compartment syndrome of other sites,??,??,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM

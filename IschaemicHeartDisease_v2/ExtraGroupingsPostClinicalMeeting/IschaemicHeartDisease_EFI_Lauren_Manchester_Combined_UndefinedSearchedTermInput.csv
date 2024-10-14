@@ -1,0 +1,32 @@
+﻿SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comments
+65547006,Acute myocardial infarction of interolateral wall,Ischaemic heart disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv
+59021001,Angina decubitus or Anginal chest pain at rest or Angina at rest or Angina decubitus (disorder),Ischaemic heart disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv
+233825009,Acute Q wave infarction or Acute Q wave infarction - anterseptal (disorder),Ischaemic heart disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv
+233827001,Acute Q wave infarction - anterolateral,Ischaemic heart disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv
+233833005,Acute Q wave infarction - lateral,Ischaemic heart disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv
+233835003,Acute widespread myocardial infarction (disorder),Ischaemic heart disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv
+233837006,Acute non-Q wave infarction - widespread (disroder),Ischaemic heart disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv
+233839009,Old anterior myocardial infarction,Ischaemic heart disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv
+233841005,Old lateral myocardial infarction,Ischaemic heart disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv
+233842003,Old posterior myocardial infarction,Ischaemic heart disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv
+311793000,Postoperative transmural myocardial infarction of inferior wall,Ischaemic heart disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv
+394710008,First myocardial infarction (disorder),Ischaemic heart disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv
+810681000000101,Coronary microvascular disease (disorder),Ischaemic heart disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,Maurices Grouping,,,
+65547006,Acute myocardial infarction of interolateral wall,mi,,,
+59021001,Angina decubitus or Anginal chest pain at rest or Angina at rest or Angina decubitus (disorder),angina,,,
+233825009,Acute Q wave infarction or Acute Q wave infarction - anterseptal (disorder),mi,,,
+233827001,Acute Q wave infarction - anterolateral,mi,,,
+233833005,Acute Q wave infarction - lateral,mi,,,
+233835003,Acute widespread myocardial infarction (disorder),mi,,,
+233837006,Acute non-Q wave infarction - widespread (disroder),mi,,,
+233839009,Old anterior myocardial infarction,old mi,,,
+233841005,Old lateral myocardial infarction,old mi,,,
+233842003,Old posterior myocardial infarction,old mi,,,
+311793000,Postoperative transmural myocardial infarction of inferior wall,mi,,,
+394710008,First myocardial infarction (disorder),mi,,,
+810681000000101,Coronary microvascular disease (disorder),ischaemic heart disease,,,

@@ -1,0 +1,259 @@
+﻿ICD-9_or_10-CM,Description,GroupNumber,Grouping,Table,ICD9_or_10
+456.0,Oesophageal varices with bleeding,2,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+456.20,"Oesophageal varices in diseases classified elsewhere, with bleeding",2,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+530.21,Ulcer of oesophagus with bleeding,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+530.7,Gastro-oesophageal laceration-haemorrhage syndrome,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+530.82,Oesophageal haemorrhage,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+531.0,Acute gastric ulcer with haemorrhage ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+531.00,"Acute gastric ulcer with haemorrhage, without mention of obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+531.01,"Acute gastric ulcer with haemorrhage, with obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+531.2, Acute gastric ulcer with haemorrhage and perforation ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+531.20,"Acute gastric ulcer with haemorrhage and perforation, without mention of obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+531.21,"Acute gastric ulcer with haemorrhage and perforation, with obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+531.4,Chronic or unspecified gastric ulcer with haemorrhage ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+531.40,"Chronic or unspecified gastric ulcer with haemorrhage, without mention of obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+531.41,"Chronic or unspecified gastric ulcer with haemorrhage, with obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+531.6,Chronic or unspecified gastric ulcer with haemorrhage and perforation ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+531.60,"Chronic or unspecified gastric ulcer with haemorrhage and perforation, without mention of obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+531.61 ,"Chronic or unspecified gastric ulcer with haemorrhage and perforation, with obstruction",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+532.0,Acute duodenal ulcer with haemorrhage ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+532.00,"Acute duodenal ulcer with haemorrhage, without mention of obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+532.01,"Acute duodenal ulcer with haemorrhage, with obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+532.2,Acute duodenal ulcer with haemorrhage and perforation ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+532.20,"Acute duodenal ulcer with haemorrhage and perforation, without mention of obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+532.21,"Acute duodenal ulcer with haemorrhage and perforation, with obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+532.4,Chronic or unspecified duodenal ulcer with haemorrhage ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+532.40,"Chronic or unspecified duodenal ulcer with haemorrhage, without mention of obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+532.41,"Chronic or unspecified duodenal ulcer with haemorrhage, with obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+532.6,Chronic or unspecified duodenal ulcer with haemorrhage and perforation ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+532.60 ,"Chronic or unspecified duodenal ulcer with haemorrhage and perforation, without mention of obstruction",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+532.61,"Chronic or unspecified duodenal ulcer with haemorrhage and perforation, with obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+533.0,Acute peptic ulcer of unspecified site with haemorrhage ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+533.00,"Acute peptic ulcer of unspecified site with haemorrhage, without mention of obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+533.01," Acute peptic ulcer of unspecified site with haemorrhage, with obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+533.2,Acute peptic ulcer of unspecified site with haemorrhage and perforation ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+533.20,"Acute peptic ulcer of unspecified site with haemorrhage and perforation, without mention of obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+533.21," Acute peptic ulcer of unspecified site with haemorrhage and perforation, with obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+533.4,Chronic or unspecified peptic ulcer of unspecified site with haemorrhage ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+533.40,"Chronic or unspecified peptic ulcer of unspecified site with haemorrhage, without mention of obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+533.41,"Chronic or unspecified peptic ulcer of unspecified site with haemorrhage, with obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+533.6,Chronic or unspecified peptic ulcer of unspecified site with haemorrhage and perforation ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+533.60,"Chronic or unspecified peptic ulcer of unspecified site with haemorrhage and perforation, without mention of obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+533.61,"Chronic or unspecified peptic ulcer of unspecified site with haemorrhage and perforation, with obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+534.0,Acute gastrojejunal ulcer with haemorrhage ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+534.00,"Acute gastrojejunal ulcer with haemorrhage, without mention of obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+534.01,"Acute gastrojejunal ulcer with haemorrhage, with obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+534.2,Acute gastrojejunal ulcer with haemorrhage and perforation ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+534.20,"Acute gastrojejunal ulcer with haemorrhage and perforation, without mention of obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+534.21,"Acute gastrojejunal ulcer with haemorrhage and perforation, with obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+534.4,Chronic or unspecified gastrojejunal ulcer with haemorrhage ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+534.40,"Chronic or unspecified gastrojejunal ulcer with haemorrhage, without mention of obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+534.41,"Chronic or unspecified gastrojejunal ulcer with haemorrhage, with obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+534.6,Chronic or unspecified gastrojejunal ulcer with haemorrhage and perforation ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+534.60,"Chronic or unspecified gastrojejunal ulcer with haemorrhage and perforation, without mention of obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+534.61,"Chronic or unspecified gastrojejunal ulcer with haemorrhage and perforation, with obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+535.01,"Acute gastritis, with haemorrhage",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+535.11,"Atrophic gastritis, with haemorrhage",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+535.21,"Gastric mucosal hypertrophy, with haemorrhage",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+535.31,"Alcoholic gastritis, with haemorrhage",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+535.41,"Other specified gastritis, with haemorrhage",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+535.51,"Unspecified gastritis and gastroduodenitis, with haemorrhage",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+535.61,"Duodenitis, with haemorrhage",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+535.71,"Eosinophilic gastritis, with haemorrhage ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+537.83,Angiodysplasia of stomach and duodenum with haemorrhage ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+537.84,Dieulafoy lesion (haemorrhagic) of stomach and duodenum ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+562.02,Diverticulosis of small intestine with haemorrhage ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+562.03,Diverticulitis of small intestine with haemorrhage ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+562.12, Diverticulosis of colon with haemorrhage ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+562.13 ,Diverticulitis of colon with haemorrhage,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+568.81,Haemoperitoneum (non-traumatic),2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+569.3,Haemorrhage of rectum and anus ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+569.85,Angiodysplasia of intestine with haemorrhage ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+569.86,Dieulafoy lesion (haemorrhagic) of intestine ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+578,Gastrointestinal haemorrhage ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+578.0, Haematemesis ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+578.1,Blood in stool ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+578.9,"Haemorrhage of gastrointestinal tract, unspecified ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+I85.01,Oesophageal varices with bleeding,2   ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+I85.11,Secondary oesophageal varices with bleeding ,2   ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K20.81,Other oesophagitis with bleeding,2   ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K20.91,"Oesophagitis, unspecified with bleeding",2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K22.11,Ulcer of oesophagus with bleeding,2   ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K22.6,Gastro-oesophageal laceration-haemorrhage syndrome,2   ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K25.0,Acute gastric ulcer with haemorrhage,2   ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K25.2,Acute gastric ulcer with both haemorrhage and perforation,2   ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K25.4,Chronic or unspecified gastric ulcer with haemorrhage,2    ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K25.6,Chronic or unspecified gastric ulcer with both haemorrhage and perforation,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K26.0,Acute duodenal ulcer with haemorrhage,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K26.2,Acute duodenal ulcer with both haemorrhage and perforation,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K26.4,Chronic or unspecified duodenal ulcer with haemorrhage,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K26.6,Chronic or unspecified duodenal ulcer with both haemorrhage and perforation,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K27.0," Acute peptic ulcer, site unspecified, with haemorrhage",2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K27.2,"Acute peptic ulcer, site unspecified, with both haemorrhage and perforation",2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K27.4,"Chronic or unspecified peptic ulcer, site unspecified, with haemorrhage",2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K27.6,"Chronic or unspecified peptic ulcer, site unspecified, with both haemorrhage and perforation",2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K28.0,Acute gastrojejunal ulcer with haemorrhage,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K28.2, Acute gastrojejunal ulcer with both haemorrhage and perforation ,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K28.4,Chronic or unspecified gastrojejunal ulcer with haemorrhage,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K28.6,Chronic or unspecified gastrojejunal ulcer with both haemorrhage and perforation,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K29.01,Acute gastritis with bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K29.21,Alcoholic gastritis with bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K29.31,Chronic superficial gastritis with bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K29.41,Chronic atrophic gastritis with bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K29.51,Unspecified chronic gastritis with bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K29.61,Other gastritis with bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K29.71,"Gastritis, unspecified, with bleeding",2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K29.81,Duodenitis with bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K29.91,"Gastroduodenitis, unspecified, with bleeding",2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K31.811,Angiodysplasia of stomach and duodenum with bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K50.011,Crohn’s disease of small intestine with rectal bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K50.111,Crohn’s disease of large intestine with rectal bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K50.811,Crohn’s disease of both small and large intestine with rectal bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K50.911,"Crohn’s disease, unspecified, with rectal bleeding",2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K51.011,Ulcerative (chronic) pancolitis with rectal bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K51.211,Ulcerative (chronic) proctitis with rectal bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K51.311,Ulcerative (chronic) rectosigmoiditis with rectal bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K51.411,Inflammatory polyps of colon with rectal bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K51.511,Left-sided colitis with rectal bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K51.811,Other ulcerative colitis with rectal bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K51.911,"Ulcerative colitis, unspecified with rectal bleeding",2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K55.21,Angiodysplasia of colon with haemorrhage,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K57.01,Diverticulitis of small intestine with perforation and abscess with bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K57.11,Diverticulosis of small intestine without perforation or abscess with bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K57.13, Diverticulitis of small intestine without perforation or abscess with bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K57.21,Diverticulitis of large intestine with perforation and abscess with bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K57.31,Diverticulosis of large intestine without perforation or abscess with bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K57.33,Diverticulitis of large intestine without perforation or abscess with bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K57.41,Diverticulitis of both small and large intestine with perforation and abscess with bleeding ,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K57.51,Diverticulosis of both small and large intestine without perforation or abscess with bleeding ,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K57.53,Diverticulitis of both small and large intestine without perforation or abscess with bleeding ,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K57.81,"Diverticulitis of intestine, part unspecified, with perforation and abscess with bleeding ",2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K57.91,"Diverticulosis of intestine, part unspecified, without perforation or abscess with bleeding ",2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K57.93 ,"Diverticulitis of intestine, part unspecified, without perforation or abscess with bleeding",2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K62.5,Haemorrhage of anus and rectum,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K63.81, Dieulafoy lesion of intestine,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K66.1,Haemoperitoneum ,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K92.0,Haematemesis ,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K92.1, Melena ,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K92.2,"Gastrointestinal haemorrhage, unspecified ",2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K94.01, Colostomy haemorrhage,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K94.11,Enterostomy haemorrhage,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K94.21,Gastrostomy haemorrhage,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K94.31,Oesophagostomy haemorrhage,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+455.0,Internal haemorrhoids without mention of complication ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+455.1,Internal thrombosed haemorrhoids ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+455.2,Internal haemorrhoids with other complication ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+455.3,External haemorrhoids without mention of complication ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+455.4,External thrombosed haemorrhoids ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+455.5,External haemorrhoids with other complication ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+455.6,Unspecified haemorrhoids without mention of complication ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+455.7 ,Unspecified thrombosed haemorrhoids,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+455.8,Unspecified haemorrhoids with other complication ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+455.9,Residual haemorrhoidal skin tags ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+530.10," Oesophagitis, unspecified ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+530.11, Reflux oesophagitis ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+530.12, Acute oesophagitis ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+530.13,Eosinophilic oesophagitis ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+530.19, Other oesophagitis ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+531.10,"Acute gastric ulcer with perforation, without mention of obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+531.11,"Acute gastric ulcer with perforation, with obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+531.30,"Acute gastric ulcer without mention of haemorrhage or perforation, without mention of obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+531.31,"Acute gastric ulcer without mention of haemorrhage or perforation, with obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+531.50,"Chronic or unspecified gastric ulcer with perforation, without mention of obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+531.51," Chronic or unspecified gastric ulcer with perforation, with obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+531.70,"Chronic gastric ulcer without mention of haemorrhage or perforation, without mention of obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+531.71,"Chronic gastric ulcer without mention of haemorrhage or perforation, with obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+531.90,"Gastric ulcer, unspecified as acute or chronic, without mention of haemorrhage or perforation, without mention of obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+531.91,"Gastric ulcer, unspecified as acute or chronic, without mention of haemorrhage or perforation, with obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+532.30,"Acute duodenal ulcer without mention of haemorrhage or perforation, without mention of obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+532.31,"Acute duodenal ulcer without mention of haemorrhage or perforation, with obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+532.50,"Chronic or unspecified duodenal ulcer with perforation, without mention of obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+532.51,"Chronic or unspecified duodenal ulcer with perforation, with obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+532.70,"Chronic duodenal ulcer without mention of haemorrhage or perforation, without mention of obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+532.71,"Chronic duodenal ulcer without mention of haemorrhage or perforation, with obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+532.90,"Duodenal ulcer, unspecified as acute or chronic, without haemorrhage or perforation, without mention of obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+532.91,"Duodenal ulcer, unspecified as acute or chronic, without mention of haemorrhage or perforation, with obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+533.10,"Acute peptic ulcer of unspecified site with perforation, without mention of obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+533.11,"Acute peptic ulcer of unspecified site with perforation, with obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+533.30,"Acute peptic ulcer of unspecified site without mention of haemorrhage and perforation, without mention of obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+533.31,"Acute peptic ulcer of unspecified site without mention of haemorrhage and perforation, with obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+533.50,"Chronic or unspecified peptic ulcer of unspecified site with perforation, without mention of obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+533.51," Chronic or unspecified peptic ulcer of unspecified site with perforation, with obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+533.70,"Chronic peptic ulcer of unspecified site without mention of haemorrhage or perforation, without mention of obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+533.71,"Chronic peptic ulcer of unspecified site without mention of haemorrhage or perforation, with obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+533.90,"Peptic ulcer of unspecified site, unspecified as acute or chronic, without mention of haemorrhage or perforation, without mention of obstruction",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+533.91,"Peptic ulcer of unspecified site, unspecified as acute or chronic, without mention of haemorrhage or perforation, with obstruction",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+534.10,"Acute gastrojejunal ulcer with perforation, without mention of obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+534.11,"Acute gastrojejunal ulcer with perforation, with obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+534.30," Acute gastrojejunal ulcer without mention of haemorrhage or perforation, without mention of obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+534.31,"Acute gastrojejunal ulcer without mention of haemorrhage or perforation, with obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+534.50,"Chronic or unspecified gastrojejunal ulcer with perforation, without mention of obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+534.51,"Chronic or unspecified gastrojejunal ulcer with perforation, with obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+534.70,"Chronic gastrojejunal ulcer without mention of haemorrhage or perforation, without mention of obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+534.71,"Chronic gastrojejunal ulcer without mention of haemorrhage or perforation, with obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+534.90,"Gastrojejunal ulcer, unspecified as acute or chronic, without mention of haemorrhage or perforation, without mention of obstruction",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+534.91,"Gastrojejunal ulcer, unspecified as acute or chronic, without mention of haemorrhage or perforation, with obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+535.00,"Acute gastritis, without mention of haemorrhage",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+535.10,"Atrophic gastritis, without mention of haemorrhage",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+535.20,"Gastric mucosal hypertrophy, without mention of haemorrhage",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+535.30,"Alcoholic gastritis, without mention of haemorrhage",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+535.40,"Other specified gastritis, without mention of haemorrhage",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+535.50,"Unspecified gastritis and gastroduodenitis, without mention of haemorrhage ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+535.60 ,"Duodenitis, without mention of haemorrhage",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+562.00,Diverticulosis of small intestine (without mention of haemorrhage) ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+562.01,Diverticulitis of small intestine (without mention of haemorrhage) ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+562.10, Diverticulosis of colon (without mention of haemorrhage) ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+562.11,Diverticulitis of colon (without mention of haemorrhage) ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+K20.0,Eosinophilic oesophagitis ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K20.8,Other oesophagitis ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K20.9,"Oesophagitis, unspecified ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K21.0,Gastro-oesophageal reflux disease with oesophagitis ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K25.1,Acute gastric ulcer with perforation ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K25.3,Acute gastric ulcer without haemorrhage or perforation,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K25.5,Chronic or unspecified gastric ulcer with perforation,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K25.7,Chronic gastric ulcer without haemorrhage or perforation,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K25.9,"Gastric ulcer, unspecified as acute or chronic, without haemorrhage or perforation",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K26.3,Acute duodenal ulcer without haemorrhage or perforation ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K26.5,Chronic or unspecified duodenal ulcer with perforation,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K26.7,Chronic duodenal ulcer without haemorrhage or perforation,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K26.9,"Duodenal ulcer, unspecified as acute or chronic, without haemorrhage or perforation",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K27.1,"Acute peptic ulcer, site unspecified, with perforation",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K27.3,"Acute peptic ulcer, site unspecified, without haemorrhage or perforation",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K27.5,"Chronic or unspecified peptic ulcer, site unspecified, with perforation",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K27.7,"Chronic peptic ulcer, site unspecified, without haemorrhage or perforation",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K27.9,"Peptic ulcer, site unspecified, unspecified as acute or chronic, without haemorrhage or perforation",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K28.1,Acute gastrojejunal ulcer with perforation,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K28.3,Acute gastrojejunal ulcer without haemorrhage or perforation,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K28.5,Chronic or unspecified gastrojejunal ulcer with perforation,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K28.7,Chronic gastrojejunal ulcer without haemorrhage or perforation,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K28.9,"Gastrojejunal ulcer, unspecified as acute or chronic, without haemorrhage or perforation",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K29.00,Acute gastritis without bleeding,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K29.20,Alcoholic gastritis without bleeding,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K29.30,Chronic superficial gastritis without bleeding,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K29.40, Chronic atrophic gastritis without bleeding,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K29.50,Unspecified chronic gastritis without bleeding,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K29.60,Other gastritis without bleeding,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K29.70,"Gastritis, unspecified, without bleeding",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K29.80,Duodenitis without bleeding,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K29.90,"Gastroduodenitis, unspecified, without bleeding",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K56.699,Other intestinal obstruction unspecified as to partial versus complete obstruction,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K57.00,Diverticulitis of small intestine with perforation and abscess without bleeding,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K57.10,Diverticulosis of small intestine without perforation or abscess without bleeding,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K57.12,Diverticulitis of small intestine without perforation or abscess without bleeding,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K57.20,Diverticulitis of large intestine with perforation and abscess without bleeding,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K57.30,Diverticulosis of large intestine without perforation or abscess without bleeding,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K57.32,Diverticulitis of large intestine without perforation or abscess without bleeding,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K57.40,Diverticulitis of both small and large intestine with perforation and abscess without bleeding ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K57.50,Diverticulosis of both small and large intestine without perforation or abscess without bleeding ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K57.52,Diverticulitis of both small and large intestine without perforation or abscess without bleeding,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K57.80,"Diverticulitis of intestine, part unspecified, with perforation and abscess without bleeding",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K57.90,"Diverticulosis of intestine, part unspecified, without perforation or abscess without bleeding ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K57.92 ,"Diverticulitis of intestine, part unspecified, without perforation or abscess without bleeding",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K64.0,First degree haemorrhoids ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K64.1,Second degree haemorrhoids ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K64.2,Third degree haemorrhoids ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K64.3,Fourth degree haemorrhoids ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K64.4,Residual haemorrhoidal skin tags ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K64.5,Perianal venous thrombosis ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K64.8,Other haemorrhoids ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K64.9,Unspecified haemorrhoids ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM

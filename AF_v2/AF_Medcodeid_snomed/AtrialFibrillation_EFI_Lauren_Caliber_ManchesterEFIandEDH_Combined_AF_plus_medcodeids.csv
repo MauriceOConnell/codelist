@@ -1,0 +1,38 @@
+,medcodeid,Observations,OrigReadCode,CleansedReadCode,Term,SnomedCTConceptId,SnomedDescriptionId,Release,EmisCodeCategoryId,term,condition
+1,256479014,40000,3273,3273,ECG: atrial flutter,164890007,256479014,NA,3,Electrocardiographic atrial flutter (finding),Q code group Atrial Fibrillation or Flutter
+2,2608211000000115,200,G5738,NA,Typical atrial flutter,720448006,3320796013,NA,32,Typical atrial flutter (disorder),Q code group Atrial Fibrillation or Flutter
+3,2608251000000116,400,G5739,NA,Atypical atrial flutter,15964901000119107,3322864015,NA,32,Atypical atrial flutter (disorder),Q code group Atrial Fibrillation or Flutter
+4,2675253013,800,G5737,NA,Chronic atrial fibrillation,426749004,2675253013,NA,32,Chronic atrial fibrillation (disorder),Q code group Atrial Fibrillation or Flutter
+5,2675306013,7000,G5736,G573600,Paroxysmal atrial flutter,427665004,2675306013,NA,32,Paroxysmal atrial flutter (disorder),Q code group Atrial Fibrillation or Flutter
+6,2692063011,4000,14AR,14AR.00,History of atrial flutter,428076002,2692063011,NA,32,History of atrial flutter (situation),Q code group Atrial Fibrillation or Flutter
+7,300130013,700000,G573,G573.00,Atrial fibrillation and flutter,195080001,300130013,NA,32,Atrial fibrillation and flutter (disorder),Q code group Atrial Fibrillation or Flutter
+8,300132017,30000,G573z,G573z00,Atrial fibrillation and flutter NOS,195080001,300130013,NA,32,Atrial fibrillation and flutter (disorder),Q code group Atrial Fibrillation or Flutter
+9,3299911000006116,200,^ESCTAF329991,NA,AF - Atrial fibrillation,49436004,1230726010,NA,32,Atrial fibrillation (disorder),Q code group Atrial Fibrillation or Flutter
+10,350465014,2000,G5733,G573300,Non-rheumatic atrial fibrillation,233911009,350465014,NA,32,Non-rheumatic atrial fibrillation (disorder),Q code group Atrial Fibrillation or Flutter
+11,3636234016,NA,NA,NA,NA,NA,NA,NA,NA,Preexcited atrial fibrillation (disorder),Q code group Atrial Fibrillation or Flutter
+12,3636235015,4,^ESCT1168889,NA,Preexcited atrial fibrillation,762247006,3636235015,NA,32,Preexcited atrial fibrillation (disorder),Q code group Atrial Fibrillation or Flutter
+13,421235014,1000000,G5732,G573200,Paroxysmal atrial fibrillation,282825002,421235014,NA,32,Paroxysmal atrial fibrillation (disorder),Q code group Atrial Fibrillation or Flutter
+14,456154015,100000,14AN,14AN.00,H/O: atrial fibrillation,312442005,456154015,NA,32,History of atrial fibrillation (situation),Q code group Atrial Fibrillation or Flutter
+15,4586631000006118,NA,NA,NA,NA,NA,NA,NA,NA,Electrocardiographic atrial flutter (finding),Q code group Atrial Fibrillation or Flutter
+16,4586641000006111,NA,NA,NA,NA,NA,NA,NA,NA,Electrocardiographic atrial flutter (finding),Q code group Atrial Fibrillation or Flutter
+17,5057261000006110,50,^ESCTLO505726,NA,Lone atrial fibrillation,233910005,350464013,NA,32,Lone atrial fibrillation (disorder),Q code group Atrial Fibrillation or Flutter
+18,5057281000006117,NA,NA,NA,NA,NA,NA,NA,NA,Non-rheumatic atrial fibrillation (disorder),Q code group Atrial Fibrillation or Flutter
+19,5669591000006113,100,^ESCTAF566959,NA,AF - Paroxysmal atrial fibrillation,282825002,421232012,NA,32,Paroxysmal atrial fibrillation (disorder),Q code group Atrial Fibrillation or Flutter
+20,5669601000006117,300,^ESCTPA566960,NA,PAF - Paroxysmal atrial fibrillation,282825002,421233019,NA,32,Paroxysmal atrial fibrillation (disorder),Q code group Atrial Fibrillation or Flutter
+21,5669611000006119,20,^ESCTIN566961,NA,Intermittent atrial fibrillation,282825002,421234013,NA,32,Paroxysmal atrial fibrillation (disorder),Q code group Atrial Fibrillation or Flutter
+22,5887651000006116,100,^ESCTCO588765,NA,Controlled atrial fibrillation,300996004,442207015,NA,32,Controlled atrial fibrillation (disorder),Q code group Atrial Fibrillation or Flutter
+23,6016401000006115,5,^ESCTHI601640,NA,History of atrial fibrillation,312442005,2986292016,NA,32,History of atrial fibrillation (situation),Q code group Atrial Fibrillation or Flutter
+24,6043781000006115,1000,^ESCTRA604378,NA,Rapid atrial fibrillation,314208002,458527016,NA,32,Rapid atrial fibrillation (disorder),Q code group Atrial Fibrillation or Flutter
+25,636701000000115,7000,G5735,G573500,Persistent atrial fibrillation,440059007,2793372019,NA,32,Persistent atrial fibrillation (disorder),Q code group Atrial Fibrillation or Flutter
+26,636721000000112,5000,G5734,G573400,Permanent atrial fibrillation,440028005,2793259018,NA,32,Permanent atrial fibrillation (disorder),Q code group Atrial Fibrillation or Flutter
+27,7046981000006110,7,^ESCTCH704698,NA,Chronic atrial flutter,425615007,2675252015,NA,32,Chronic atrial flutter (disorder),Q code group Atrial Fibrillation or Flutter
+28,7610331000006110,30,^ESCTLO761033,NA,Longstanding persistent atrial fibrillation,706923002,3027950014,NA,32,Longstanding persistent atrial fibrillation (disorder),Q code group Atrial Fibrillation or Flutter
+29,7731461000006119,9,^ESCTFA773146,NA,Familial atrial fibrillation,715395008,3302451018,NA,32,Familial atrial fibrillation (disorder),Q code group Atrial Fibrillation or Flutter
+30,7803631000006115,NA,NA,NA,NA,NA,NA,NA,NA,Typical atrial flutter (disorder),Q code group Atrial Fibrillation or Flutter
+31,7803641000006113,1,^ESCTAT780364,NA,Atrial flutter type 1,720448006,3320802010,NA,32,Typical atrial flutter (disorder),Q code group Atrial Fibrillation or Flutter
+32,8037691000006113,1000,^ESCTAT803769,NA,Atrial fibrillation with rapid ventricular response,120041000119109,2981207015,NA,32,Atrial fibrillation with rapid ventricular response (disorder),Q code group Atrial Fibrillation or Flutter
+33,82343012,6000000,G5730,G573000,Atrial fibrillation,49436004,82343012,NA,32,Atrial fibrillation (disorder),Q code group Atrial Fibrillation or Flutter
+34,8439861000006115,60,^ESCTAT843986,NA,Atrial fibrillation detected,1066831000000104,2679661000000115,NA,27,Atrial fibrillation detected (finding),Q code group Atrial Fibrillation or Flutter
+35,9868941000006116,NA,NA,NA,NA,NA,NA,NA,NA,Atypical atrial flutter (disorder),Q code group Atrial Fibrillation or Flutter
+36,9868951000006120,NA,NA,NA,NA,NA,NA,NA,NA,Atypical atrial flutter (disorder),Q code group Atrial Fibrillation or Flutter
+37,9988012,300000,G5731,G573100,Atrial flutter,5370000,9988012,NA,32,Atrial flutter (disorder),Q code group Atrial Fibrillation or Flutter

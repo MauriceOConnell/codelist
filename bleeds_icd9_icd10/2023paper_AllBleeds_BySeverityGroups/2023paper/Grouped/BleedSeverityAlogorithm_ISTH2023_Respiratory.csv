@@ -1,0 +1,9 @@
+﻿ICD-9_or_10-CM,Description,GroupNumber,Grouping,Table,ICD9_or_10
+786.3, Haemoptysis ,Consider respiratory,Consider respiratory,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+786.30,"  Haemoptysis, unspecified ",Consider respiratory,Consider respiratory,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+786.39, Other haemoptysis,Consider respiratory,Consider respiratory,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+J94.2,Haemothorax ,Consider respiratory,Consider respiratory,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+R04.2,Haemoptysis ,Consider respiratory,Consider respiratory,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+R04.81,Acute idiopathic pulmonary haemorrhage in infants,Consider respiratory,Consider respiratory,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+R04.89,Haemorrhage from other sites in respiratory passages ,Consider respiratory,Consider respiratory,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+R04.9 ,"Haemorrhage from respiratory passages, unspecified",Consider respiratory,Consider respiratory,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM

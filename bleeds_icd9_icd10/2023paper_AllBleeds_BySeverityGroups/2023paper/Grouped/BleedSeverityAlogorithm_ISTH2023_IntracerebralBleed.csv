@@ -1,0 +1,62 @@
+﻿ICD-9_or_10-CM,Description,GroupNumber,Grouping,Table,ICD9_or_10
+431, Intracerebral haemorrhage ,4,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-9-CM
+432,Other and unspecified intracranial haemorrhage ,4,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-9-CM
+432.0, Non-traumatic extradural haemorrhage ,4,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-9-CM
+432.9,Unspecified intracranial haemorrhage ,4,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-9-CM
+719.10 ," Haemarthrosis, site unspecified ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-9-CM
+719.11,"  Haemarthrosis, shoulder region ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-9-CM
+719.12 ," Haemarthrosis, upper arm ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-9-CM
+719.13 ," Haemarthrosis, forearm ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-9-CM
+719.14,"  Haemarthrosis, hand ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-9-CM
+719.15 ," Haemarthrosis, pelvic region and thigh ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-9-CM
+719.16  ,"Haemarthrosis, lower leg ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-9-CM
+719.17  ,"Haemarthrosis, ankle and foot ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-9-CM
+719.18  ,"Haemarthrosis, other specified sites ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-9-CM
+719.19  ,"Haemarthrosis, multiple sites ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-9-CM
+I61,Non-traumatic intracerebral haemorrhage ,4,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+I61.0 ,Non-traumatic intracerebral haemorrhage ,4,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+I61.1,Non-traumatic intracerebral haemorrhage ,4,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+I61.2,Non-traumatic intracerebral haemorrhage ,4,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+I61.3, Non-traumatic intracerebral haemorrhage ,4,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+I61.4,Non-traumatic intracerebral haemorrhage ,4,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+I61.5," Non-traumatic intracerebral haemorrhage, intraventricular ",4,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+I61.6,"Non-traumatic intracerebral haemorrhage, multiple localised ",4,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+I61.8,Other non-traumatic intracerebral haemorrhage ,4,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+I61.9,"Non-traumatic intracerebral haemorrhage, unspecified ",4,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+I62,Other and unspecified non-traumatic intracranial haemorrhage ,4,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+I62.1,Non-traumatic extradural haemorrhage,4,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+I62.9,"Non-traumatic intracranial haemorrhage, unspecified",4,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+M25.0,Haemarthrosis ,3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+M25.00," Haemarthrosis, unspecified joint ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+M25.01,"Haemarthrosis, shoulder ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+M25.011,"Haemarthrosis, right shoulder ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+M25.012," Haemarthrosis, left shoulder ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+M25.019,"Haemarthrosis, unspecified shoulder",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+M25.02,"Haemarthrosis, elbow ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+M25.021,"Haemarthrosis, right elbow ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+M25.022,"Haemarthrosis, left elbow ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+M25.029,"Haemarthrosis, unspecified elbow",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+M25.03,"Haemarthrosis, wrist ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+M25.031,"Haemarthrosis, right wrist ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+M25.032,"Haemarthrosis, left wrist ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+M25.039,"Haemarthrosis, unspecified wrist",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+M25.04,"Haemarthrosis, hand ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+M25.041,"Haemarthrosis, right hand ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+M25.042,"Haemarthrosis, left hand ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+M25.049,"Haemarthrosis, unspecified hand",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+M25.05,"Haemarthrosis, hip ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+M25.051,"Haemarthrosis, right hip ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+M25.052,"Haemarthrosis, left hip ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+M25.059,"Haemarthrosis, unspecified hip",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+M25.06,"Haemarthrosis, knee ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+M25.061,"Haemarthrosis, right knee ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+M25.062,"Haemarthrosis, left knee ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+M25.069,"Haemarthrosis, unspecified knee",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+M25.07,"Haemarthrosis, ankle and foot ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+M25.071,"Haemarthrosis, right ankle ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+M25.072,"Haemarthrosis, left ankle ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+M25.073,"Haemarthrosis, unspecified ankle ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+M25.074,"Haemarthrosis, right foot ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+M25.075,"Haemarthrosis, left foot ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+M25.076,"Haemarthrosis, unspecified foot ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+M25.08,"Haemarthrosis, other specified site",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM

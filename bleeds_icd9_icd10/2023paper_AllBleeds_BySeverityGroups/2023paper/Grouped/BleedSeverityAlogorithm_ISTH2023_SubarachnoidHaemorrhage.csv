@@ -1,0 +1,25 @@
+﻿ICD-9_or_10-CM,Description,GroupNumber,Grouping,Table,ICD9_or_10
+430, Subarachnoid haemorrhage ,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes,ICD-9-CM
+I60,Non-traumatic subarachnoid haemorrhage,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+I60.0,Non-traumatic subarachnoid haemorrhage from carotid siphon and bifurcation,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+I60.00, Non-traumatic subarachnoid haemorrhage from unspecified carotid siphon and bifurcation,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+I60.01,Non-traumatic subarachnoid haemorrhage from right carotid siphon and bifurcation,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+I60.02,Non-traumatic subarachnoid haemorrhage from left carotid siphon and bifurcation,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+I60.1,Non-traumatic subarachnoid haemorrhage from middle cerebral artery,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+I60.10, Non-traumatic subarachnoid haemorrhage from unspecified middle cerebral artery,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+I60.11, Non-traumatic subarachnoid haemorrhage from right middle cerebral artery,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+I60.12, Non-traumatic subarachnoid haemorrhage from left middle cerebral artery ,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+I60.2,Non-traumatic subarachnoid haemorrhage from anterior communicating artery,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+I60.3, Non-traumatic subarachnoid haemorrhage from posterior communicating artery,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+I60.30, Non-traumatic subarachnoid haemorrhage from unspecified posterior communicating artery ,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+I60.31,Non-traumatic subarachnoid haemorrhage from right posterior communicating artery,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+I60.32, Non-traumatic subarachnoid haemorrhage from left posterior communicating artery,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+I60.4, Non-traumatic subarachnoid haemorrhage from basilar artery,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+I60.5, Non-traumatic subarachnoid haemorrhage from vertebral artery,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+I60.50, Non-traumatic subarachnoid haemorrhage from unspecified vertebral artery,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+I60.51, Non-traumatic subarachnoid haemorrhage from right vertebral artery ,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+I60.52, Non-traumatic subarachnoid haemorrhage from left vertebral artery ,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+I60.6,Non-traumatic subarachnoid haemorrhage from other intracranial arteries ,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+I60.7,Non-traumatic subarachnoid haemorrhage from unspecified intracranial artery ,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+I60.8,Other non-traumatic subarachnoid haemorrhage ,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+I60.9,"Non-traumatic subarachnoid haemorrhage, unspecified ",5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM

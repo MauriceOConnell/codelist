@@ -1,0 +1,135 @@
+﻿Major bleeding ,Enhanced ICD-9-CM,ICD-10  
+Intracranial ,430,I60
+Intracranial ,431,I61
+Intracranial ,432.0,I62
+Intracranial ,432.1, S06.340A
+Intracranial ,432.9,S06.341A
+Intracranial ,852.0,S06.342A
+Intracranial ,852.2,S06.343A
+Intracranial ,852.4,S06.344A
+Intracranial ,853.0 ,S06.345A
+Intracranial ,,S06.346A
+Intracranial ,,S06.347A
+Intracranial ,,S06.348A
+Intracranial ,,S06.349A
+Intracranial ,,S06.350A
+Intracranial ,,S06.351A
+Intracranial ,,S06.352A
+Intracranial ,,S06.353A
+Intracranial ,,S06.354A
+Intracranial ,,S06.355A
+Intracranial ,,S06.356A
+Intracranial ,,S06.357A
+Intracranial ,,S06.358A
+Intracranial ,,S06.359A
+Intracranial ,,S06.360A
+Intracranial ,,S06.361A
+Intracranial ,,S06.362A
+Intracranial ,,S06.363A
+Intracranial ,,S06.364A
+Intracranial ,,S06.365A
+Intracranial ,,S06.366A
+Intracranial ,,S06.367A
+Intracranial ,,S06.368A
+Intracranial ,,S06.369A
+Intracranial ,,S06.4X0A
+Intracranial ,,S06.4X1A
+Intracranial ,,S06.4X2A
+Intracranial ,,S06.4X3A
+Intracranial ,,S06.4X4A
+Intracranial ,,S06.4X5A
+Intracranial ,,S06.4X6A
+Intracranial ,,S06.4X7A
+Intracranial ,,S06.4X8A
+Intracranial ,,S06.4X9A
+Intracranial ,,S06.5X0A
+Intracranial ,,S06.5X1A
+Intracranial ,,S06.5X2A
+Intracranial ,,S06.5X3A
+Intracranial ,,S06.5X4A
+Intracranial ,,S06.5X5A
+Intracranial ,,S06.5X6A
+Intracranial ,,S06.5X7A
+Intracranial ,,S06.5X8A
+Intracranial ,,S06.5X9A
+Intracranial ,,S06.6X0A
+Intracranial ,,S06.6X1A 
+Intracranial ,,S06.6X2A 
+Intracranial ,,S06.6X3A 
+Intracranial ,,S06.6X4A 
+Intracranial ,,S06.6X5A 
+Intracranial ,,S06.6X6A 
+Intracranial ,,S06.6X7A 
+Intracranial ,,S06.6X8A 
+Gastrointestinal ,530.7,
+Gastrointestinal ,531 ,K22.6 
+Gastrointestinal ,531.2,K25
+Gastrointestinal ,531.4,K26
+Gastrointestinal ,531.6,K27
+Gastrointestinal ,532,K28
+Gastrointestinal ,532.2,K29.01
+Gastrointestinal ,532.4,K29.21
+Gastrointestinal ,532.6,K29.31
+Gastrointestinal ,533,K29.41
+Gastrointestinal ,533.2,K29.51
+Gastrointestinal ,533.4,K29.61
+Gastrointestinal ,533.6,K29.71
+Gastrointestinal ,534,K29.81
+Gastrointestinal ,534.2,K29.91
+Gastrointestinal ,534.4,K31.811
+Gastrointestinal ,534.6,K31.82
+Gastrointestinal ,569.3,K52.81
+Gastrointestinal ,535.01,K55.21
+Gastrointestinal ,535.11,K56.60
+Gastrointestinal ,535.21,K57.01
+Gastrointestinal ,535.31,K57.11
+Gastrointestinal ,535.41,K57.13
+Gastrointestinal ,535.51,K57.21 
+Gastrointestinal ,535.61,K57.31
+Gastrointestinal ,535.71,K57.33
+Gastrointestinal ,537.83, K57.81
+Gastrointestinal ,537.84,K57.91
+Gastrointestinal ,562.02, K57.93
+Gastrointestinal ,562.03,K62.5
+Gastrointestinal ,562.12 ,K92.0
+Gastrointestinal ,562.13,K92.1
+Gastrointestinal , 569.85,K92.2
+Gastrointestinal ,578 ,
+Genitourinary tract bleeding ,599.7,R31.9
+Genitourinary tract bleeding , 626.8 , N93.8
+Genitourinary tract bleeding ,, N93.8 
+eye,336.1,
+eye,363.6,
+eye,372.72,
+eye,376.32,
+eye,377.42,
+eye,379.23,
+joint,459,
+joint,593.81,
+joint,719.1,
+softTissue,729.92,
+heart, 423.0 ,
+adrenalGland,772.5,
+Other sites ,,G95.11
+Other sites ,, G95.19
+Other sites ,, H05.23
+Other sites ,, H11.3
+Other sites ,, H31.3
+Other sites ,,H43.1
+Other sites ,,H47.02
+Other sites ,,I31.2
+Other sites ,,M25.0 R58
+Other sites ,,S37.012A
+Other sites ,, S37.019A
+Other sites ,, S37.021A
+Other sites ,, S37.022A
+Other sites ,, S37.029A
+Other sites ,, S37.031A
+Other sites ,, S37.032A
+Other sites ,, S37.039A
+Other sites ,, S37.041A
+Other sites ,, S37.042A
+Other sites ,, S37.049A
+Other sites ,, S37.051A
+Other sites ,, S37.052A
+Other sites ,, S37.059A 

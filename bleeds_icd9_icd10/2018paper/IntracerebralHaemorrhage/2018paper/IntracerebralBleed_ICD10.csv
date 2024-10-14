@@ -1,0 +1,17 @@
+﻿ICD10,Description
+I61 ,Intracerebral hemorrhage
+I61.0,"Intracerebral hemorrhage in hemisphere, subcortical "
+ I61.1 ,"Intracerebral hemorrhage in hemisphere, cortical "
+I61.2 ,"Intracerebral hemorrhage in hemisphere, unspecified "
+I61.3 ,Intracerebral hemorrhage in brain stem 
+I61.4,Intracerebral hemorrhage in cerebellum 
+I61.5,"Intracerebral hemorrhage, intraventricular "
+I61.6,"Intracerebral hemorrhage, multiple localized"
+I61.8, Other intracerebral hemorrhage 
+I61.9,"Intracerebral hemorrhage, unspecified "
+I62,Other nontraumatic intracranial hemorrhage 
+I62.1, Nontraumatic extradural hemorrhage 
+I62.9,"Intracranial hemorrhage (nontraumatic), unspecified "
+I69.1,  Sequelae of intracerebral hemorrhage
+I69.2, Sequelae of other nontraumatic intracranial hemorrhage
+S06.4, Epidural hemorrhage 

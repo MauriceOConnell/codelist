@@ -1,0 +1,9 @@
+﻿ICD-9_or_10-CM,Description,GroupNumber,Grouping,Table,ICD9_or_10
+441.1,"Thoracic aneurysm, ruptured",Aortic Aneurysm,Aortic Aneurysm,Supplementary Table 1: Critical organ bleed disease codes,ICD-9-CM
+441.3,"Abdominal aneurysm, ruptured ",Aortic Aneurysm,Aortic Aneurysm,Supplementary Table 1: Critical organ bleed disease codes,ICD-9-CM
+441.5,"Aortic aneurysm of unspecified site, ruptured ",Aortic Aneurysm,Aortic Aneurysm,Supplementary Table 1: Critical organ bleed disease codes,ICD-9-CM
+441.6," Thoraco-abdominal aneurysm, ruptured ",Aortic Aneurysm,Aortic Aneurysm,Supplementary Table 1: Critical organ bleed disease codes,ICD-9-CM
+I71.1,"Thoracic aortic aneurysm, ruptured",Aortic Aneurysm,Aortic Aneurysm,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+I71.3,"Abdominal aortic aneurysm, ruptured",Aortic Aneurysm,Aortic Aneurysm,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+I71.5,"Thoraco-abdominal aortic aneurysm, ruptured",Aortic Aneurysm,Aortic Aneurysm,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+I71.8 ,"Aortic aneurysm of unspecified site, ruptured",Aortic Aneurysm,Aortic Aneurysm,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM

@@ -1,0 +1,8 @@
+﻿SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comments
+fix code,71771000119100,,,,
+7.1771E+13,Type 1 diabetes mellitus with neuropathic arthropathy,Diabetes Neuropathy,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesToSeparate
+,,,,,
+all checks for diabetes,,,,,
+401191002,Diabetic foot examination,Diabetes Neuropathy,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate
+401081006,Diabetic peripheral neuropathy screening,Diabetes Neuropathy,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate
+367011000000100,Diabetic foot screen,Diabetes Neuropathy,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate

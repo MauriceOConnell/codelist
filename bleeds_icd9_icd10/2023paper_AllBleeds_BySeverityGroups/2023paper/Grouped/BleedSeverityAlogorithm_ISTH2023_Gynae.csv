@@ -1,0 +1,25 @@
+﻿ICD-9_or_10-CM,Description,GroupNumber,Grouping,Table,ICD9_or_10
+620.7,Haematoma of broad ligament,Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+621.4,Haematometra ,Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+623.6,Vaginal haematoma,Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+624.5,Haematoma of vulva,Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+626.2,Excessive or frequent menstruation ,Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+626.5,Ovulation bleeding ,Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+626.6,Metrorrhagia ,Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+626.7,Postcoital bleeding ,Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+626.8, Other disorders of menstruation and other abnormal bleeding from female genital tract ,Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+626.9,  Unspecified disorders of menstruation and other abnormal bleeding from female genital tract ,Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+627.1, Postmenopausal bleeding,Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+629.0,"Haematocele, female, not elsewhere classified ",Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+729.92, Non-traumatic haematoma of soft tissue,Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+N85.7,Haematometra ,Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+N92.0,Excessive and frequent menstruation with regular cycle ,Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+N92.1,Excessive and frequent menstruation with irregular cycle ,Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+N92.3,Ovulation bleeding ,Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+N92.4,Excessive bleeding in the pre-menopausal period ,Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+N93,Other abnormal uterine and vaginal bleeding ,Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+N93.0, Postcoital and contact bleeding ,Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+N93.1,Pre-pubertal vaginal bleeding ,Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+N93.8, Other specified abnormal uterine and vaginal bleeding ,Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+N93.9," Abnormal uterine and vaginal bleeding, unspecified ",Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+N95.0, Postmenopausal bleeding ,Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM

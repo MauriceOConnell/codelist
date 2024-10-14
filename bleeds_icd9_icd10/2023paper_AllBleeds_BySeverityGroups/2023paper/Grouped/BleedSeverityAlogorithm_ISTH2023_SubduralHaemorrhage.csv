@@ -1,0 +1,7 @@
+﻿ICD-9_or_10-CM,Description,GroupNumber,Grouping,Table,ICD9_or_10
+432.1,  Subdural haemorrhage ,6,SubduralHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes,ICD-9-CM
+I62.0,Non-traumatic subdural haemorrhage ,6,SubduralHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+I62.00," Non-traumatic subdural haemorrhage, unspecified ",6,SubduralHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+I62.01,Non-traumatic acute subdural haemorrhage ,6,SubduralHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+I62.02,Non-traumatic subacute subdural haemorrhage ,6,SubduralHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+I62.03,Non-traumatic chronic subdural haemorrhage ,6,SubduralHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM

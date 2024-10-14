@@ -1,0 +1,7 @@
+﻿SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comments
+429559004,Typical angina (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+61490001,"Angina, class I (disorder)",Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+59021001,Angina decubitus or Anginal chest pain at rest or Angina at rest or Angina decubitus (disorder),Ischaemic heart disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv
+,,,,,
+,,,,,
+all already in angina,,,,,

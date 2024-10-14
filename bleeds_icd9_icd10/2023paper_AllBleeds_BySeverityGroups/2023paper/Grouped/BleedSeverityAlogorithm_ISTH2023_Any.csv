@@ -1,0 +1,17 @@
+﻿ICD-9_or_10-CM,Description,GroupNumber,Grouping,Table,ICD9_or_10
+998.11,Haemorrhage complicating a procedure ,Any,Any,Supplementary Table 1: Critical organ bleed disease codes,ICD-9-CM
+287.8,Other specified haemorrhagic conditions ,Any,Any,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+287.9,Unspecified haemorrhagic conditions ,Any,Any,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+459,"Haemorrhage, unspecified",Any,Any,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+790.01,Precipitous drop in haematocrit ,Any,Any,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+D68.32,Haemorrhagic disorder due to extrinsic circulating anticoagulants ,Any,Any,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+R58,"Haemorrhage, not elsewhere classified",Any,Any,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+R71.0, Precipitous drop in haematocrit ,Any,Any,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+280, Iron deficiency anaemia secondary to blood loss (chronic) ,Any,Any,Supplementary Table 3: Possible bleed codes,ICD-9-CM
+285.1,Acute post-haemorrhagic anaemia,Any,Any,Supplementary Table 3: Possible bleed codes,ICD-9-CM
+285.9,"Anaemia, unspecified ",Any,Any,Supplementary Table 3: Possible bleed codes,ICD-9-CM
+790.92,Abnormal coagulation profile ,Any,Any,Supplementary Table 3: Possible bleed codes,ICD-9-CM
+D50.0,Iron deficiency anaemia secondary to blood loss (chronic) ,Any,Any,Supplementary Table 3: Possible bleed codes,ICD-10-CM
+D62,Acute post-haemorrhagic anaemia,Any,Any,Supplementary Table 3: Possible bleed codes,ICD-10-CM
+D64.9,"Anaemia, unspecified",Any,Any,Supplementary Table 3: Possible bleed codes,ICD-10-CM
+R79.1,Abnormal coagulation profile ,Any,Any,Supplementary Table 3: Possible bleed codes,ICD-10-CM

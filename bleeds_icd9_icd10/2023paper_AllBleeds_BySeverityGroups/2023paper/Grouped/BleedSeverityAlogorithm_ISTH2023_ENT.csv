@@ -1,0 +1,15 @@
+﻿ICD-9_or_10-CM,Description,GroupNumber,Grouping,Table,ICD9_or_10
+784.7,  Epistaxis,"ENT (Ear, Nose and Throat)","ENT (Ear, Nose and Throat)",Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+784.8,  Haemorrhage from throat ,"ENT (Ear, Nose and Throat)","ENT (Ear, Nose and Throat)",Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+H60.32 ,Haemorrhagic otitis externa ,"ENT (Ear, Nose and Throat)","ENT (Ear, Nose and Throat)",Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+H60.321,"Haemorrhagic otitis externa, right ear ","ENT (Ear, Nose and Throat)","ENT (Ear, Nose and Throat)",Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+H60.322,"Haemorrhagic otitis externa, left ear ","ENT (Ear, Nose and Throat)","ENT (Ear, Nose and Throat)",Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+H60.323,"Haemorrhagic otitis externa, bilateral ","ENT (Ear, Nose and Throat)","ENT (Ear, Nose and Throat)",Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+H60.329,"Haemorrhagic otitis externa, unspecified ear","ENT (Ear, Nose and Throat)","ENT (Ear, Nose and Throat)",Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+H92.2,Otorrhagia ,"ENT (Ear, Nose and Throat)","ENT (Ear, Nose and Throat)",Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+H92.20,"Otorrhagia, unspecified ear ","ENT (Ear, Nose and Throat)","ENT (Ear, Nose and Throat)",Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+H92.21," Otorrhagia, right ear ","ENT (Ear, Nose and Throat)","ENT (Ear, Nose and Throat)",Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+H92.22,"Otorrhagia, left ear ","ENT (Ear, Nose and Throat)","ENT (Ear, Nose and Throat)",Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+H92.23,"Otorrhagia, bilateral ","ENT (Ear, Nose and Throat)","ENT (Ear, Nose and Throat)",Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+R04.0,Epistaxis ,"ENT (Ear, Nose and Throat)","ENT (Ear, Nose and Throat)",Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+R04.1,Haemorrhage from throat ,"ENT (Ear, Nose and Throat)","ENT (Ear, Nose and Throat)",Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM

@@ -1,0 +1,26 @@
+﻿SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comments
+5969009,undefined,Diabetes mellitus,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery
+284449005,undefined,Diabetes mellitus,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery
+5368009,undefined,Diabetes mellitus,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery
+75682002,undefined,Diabetes mellitus,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery
+324301000119107,undefined,Diabetes mellitus,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery
+413183008,undefined,Diabetes mellitus,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery
+426705001,undefined,Diabetes mellitus,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery
+609572000,undefined,Diabetes mellitus,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+all to saty in diabetes except  324301000119107 according to Alan Woodhall email 18 Sept 2024,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+5969009,Diabetes metllitus associated with genetic syndrome,,,,
+284449005,Berardinelli's syndrome or Lawrence-Seip syndrome or Congential total lipodystrophy or Lipoatrophic daibetes mellitus,,,,
+5368009,Drug-induced diabetes mellitus,,,,
+75682002,Diabetes melllitus caused by insulin receptor antibodies (disorder),,,,
+324301000119107,Arhtropathy due to metabolic disorder (disorder),,,,
+413183008,Diabetes mellitus caused by non-steroid drugs without complication,,,,
+426705001,Diabetes mellitus associated with cystic fibrosis or Diabetes mellitus co-corrent and due to systic fibrosis (disorder),,,,
+609572000,Maturiy-onset daibetes of the young type 5 (disorder) or Renal cysts and diabetes syndrome or HNF1B (HNF1 homeobox B) monogenic diabetes mellitus,,,,

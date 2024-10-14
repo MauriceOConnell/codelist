@@ -1,0 +1,11 @@
+﻿SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comments
+take out,,,,,
+444172003,Recurrent transient cerebral ischemic attack (disorder),Caliber - Ischaemic Stroke,,['Caliber'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv
+1197363004,Pediatric arterial ischemic stroke (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+,,,,,
+bleeds,,,,,
+1163482004,Hemorrhagic cerebral infarction caused by Aspergillus (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+1259499007,Dementia due to hemorrhagic cerebral infarction due to hypertension (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+,,,,,
+take out,,,,,
+1055001,Stenosis of precerebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv

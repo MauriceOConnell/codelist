@@ -1,0 +1,5 @@
+,SnomedCTConceptId,MedCodeId,Observations,OrigReadCode,CleansedReadCode,Term.x,SnomedDescriptionId,Release,EmisCodeCategoryId,Term.y,Disease,Otherinstructions,origin,Comments
+1,195241001,300407010,100,G681,G681.00,Sequelae of intracerebral haemorrhage,300407010,NA,32,Sequelae of intracerebral haemorrhage,Intracerebral Haemorrhage,NA,['Lauren_codelist'],Stroke_Haemorrhagic_Caliber_EFI_LaurenCombined.csv
+2,363302008,149551000006111,400,G682,G682.00,Sequelae of other nontraumatic intracranial haemorrhage,482447013,NA,32,Sequelae of other non-traumatic intracranial haemorrhage,Stroke,NA,['efi'],Stroke_Haemorrhagic_Caliber_EFI_LaurenCombined.csv
+3,363302008,426231000006114,30,Gyu6B,Gyu6B00,[X]Sequelae of other nontraumatic intracranial haemorrhage,482447013,NA,32,Sequelae of other non-traumatic intracranial haemorrhage,Stroke,NA,['efi'],Stroke_Haemorrhagic_Caliber_EFI_LaurenCombined.csv
+4,417506008,2548554013,1000,662o,662o.00,Haemorrhagic stroke monitoring,2548554013,NA,1,Haemorrhagic stroke monitoring,Intracerebral Haemorrhage and Stroke,NA,['Lauren_codelist and efi'],Stroke_Haemorrhagic_Caliber_EFI_LaurenCombined.csv

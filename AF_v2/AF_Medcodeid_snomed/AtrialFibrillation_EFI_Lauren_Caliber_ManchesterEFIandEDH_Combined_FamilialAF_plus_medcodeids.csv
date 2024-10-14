@@ -1,0 +1,2 @@
+,SnomedCTConceptId,MedCodeId,Observations,OrigReadCode,CleansedReadCode,Term.x,SnomedDescriptionId,Release,EmisCodeCategoryId,Term.y,Disease,Otherinstructions,origin,Comments
+1,715395008,7731461000006119,9,^ESCTFA773146,NA,Familial atrial fibrillation,3302451018,NA,32,Familial atrial fibrillation,Atrial Fibrillation,NA,['Manchester - edh_af'],NA

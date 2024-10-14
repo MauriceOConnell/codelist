@@ -1,0 +1,11 @@
+﻿SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comments
+move to ischaemic,ALREADY IN ISCAHEMIC,,,,
+230698000,Lacunar infarction,Caliber - Ischaemic Stroke,Excluding non matching rows from StrokeIschaemic_Caliber.csv And Stroke_IschaemicAndHaemorrhagic_Both.csv as these were already included in StrokeIschaemic_Caliber_EFI_LaurenCombined.csv,['Caliber AND Either (efi OR Lauren_codelist)'],StrokeIschaemic_Caliber.csv And Stroke_IschaemicAndHaemorrhagic_Both.csv
+230700009,Pure sensory lacunar infarction,Caliber - Ischaemic Stroke,Excluding non matching rows from StrokeIschaemic_Caliber.csv And Stroke_IschaemicAndHaemorrhagic_Both.csv as these were already included in StrokeIschaemic_Caliber_EFI_LaurenCombined.csv,['Caliber AND Either (efi OR Lauren_codelist)'],StrokeIschaemic_Caliber.csv And Stroke_IschaemicAndHaemorrhagic_Both.csv
+230692004,Infarction - precerebral (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+,,,,,
+move to haemorrhagic,already in haemorhagic,,,,
+274100004,Cerebral hemorrhage (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+,,,,,
+remove,,,,,
+1179360000,Fetal epilepsy due to perinatal stroke (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv

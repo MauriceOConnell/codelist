@@ -1,0 +1,9 @@
+,SnomedCTConceptId,MedCodeId,Observations,OrigReadCode,CleansedReadCode,Term.x,SnomedDescriptionId,Release,EmisCodeCategoryId,Term.y,Disease,Otherinstructions,origin,Comments
+1,175146007,865521000006116,20,7936A-99,7936A99,Pacer controlled atrial fibril,8.65521E+14,NA,32,Implantation of intravenous pacemaker for atrial fibrillation (procedure),Atrial Fibrillation,NA,['Manchester'],NA
+2,175146007,783761000006118,700,7936A,7936A00,Implantation of intravenous pacemaker for atrial fibrillation,271235013,NA,32,Implantation of intravenous pacemaker for atrial fibrillation (procedure),Atrial Fibrillation,NA,['Manchester'],NA
+3,300996004,5887651000006116,100,^ESCTCO588765,NA,Controlled atrial fibrillation,442207015,NA,32,Controlled atrial fibrillation (disorder),Atrial Fibrillation,NA,['Caliber AND Manchester'],NA
+4,425615007,7046981000006110,7,^ESCTCH704698,NA,Chronic atrial flutter,2675252015,NA,32,Chronic atrial flutter (disorder),Atrial Fibrillation,NA,['Caliber'],NA
+5,426749004,2675253013,800,G5737,NA,Chronic atrial fibrillation,2675253013,NA,32,Chronic atrial fibrillation (disorder),Atrial Fibrillation,NA,['Caliber'],NA
+6,440028005,636721000000112,5000,G5734,G573400,Permanent atrial fibrillation,2793259018,NA,32,Permanent atrial fibrillation (disorder),Atrial Fibrillation,NA,['Caliber AND Manchester'],NA
+7,440059007,636701000000115,7000,G5735,G573500,Persistent atrial fibrillation,2793372019,NA,32,Persistent atrial fibrillation (disorder),Atrial Fibrillation,NA,['Caliber AND Manchester'],NA
+8,706923002,7610331000006110,30,^ESCTLO761033,NA,Longstanding persistent atrial fibrillation,3027950014,NA,32,Longstanding persistent atrial fibrillation,Atrial Fibrillation,NA,['Manchester - edh_af'],NA

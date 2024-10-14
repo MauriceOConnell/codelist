@@ -1,0 +1,2 @@
+,SnomedCTConceptId,MedCodeId,Observations,OrigReadCode,CleansedReadCode,Term.x,SnomedDescriptionId,Release,EmisCodeCategoryId,Term.y,Disease,Otherinstructions,origin,Comments
+1,195240000,300406018,300,G680,G680.00,Sequelae of subarachnoid haemorrhage,300406018,NA,32,Sequelae of subarachnoid haemorrhage,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA

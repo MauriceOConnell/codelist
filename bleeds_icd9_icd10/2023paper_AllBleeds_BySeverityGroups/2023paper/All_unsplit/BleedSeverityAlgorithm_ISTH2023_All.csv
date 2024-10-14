@@ -1,0 +1,524 @@
+﻿ICD-9_or_10-CM,Description,GroupNumber,Grouping,Table,ICD9_or_10
+360.43,"Haemophthalmias, except current injury",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-9-CM
+362.43,Haemorrhagic detachment of retinal pigment epithelium 362.81 Retinal haemorrhage,Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-9-CM
+363.6,Choroidal haemorrhage and rupture ,Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-9-CM
+363.61,"  Choroidal haemorrhage, unspecified ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-9-CM
+363.62,  Expulsive choroidal haemorrhage ,Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-9-CM
+363.63, Choroidal rupture ,Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-9-CM
+363.72,Haemorrhagic choroidal detachment 364.41 Hyphema of iris and ciliary body 376.32 Orbital haemorrhage,Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-9-CM
+379.23,Vitreous haemorrhage,Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-9-CM
+423.0,Haemopericardium,Cardiac,Cardiac,Supplementary Table 1: Critical organ bleed disease codes ,ICD-9-CM
+423.3,Cardiac tamponade ,Cardiac,Cardiac,Supplementary Table 1: Critical organ bleed disease codes ,ICD-9-CM
+430, Subarachnoid haemorrhage ,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes ,ICD-9-CM
+431, Intracerebral haemorrhage ,4,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-9-CM
+432,Other and unspecified intracranial haemorrhage ,4,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-9-CM
+432.0, Non-traumatic extradural haemorrhage ,4,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-9-CM
+432.1,  Subdural haemorrhage ,6,SubduralHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes ,ICD-9-CM
+432.9,Unspecified intracranial haemorrhage ,4,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-9-CM
+441.1,"Thoracic aneurysm, ruptured",Aortic Aneurysm,Aortic Aneurysm,Supplementary Table 1: Critical organ bleed disease codes ,ICD-9-CM
+441.3,"Abdominal aneurysm, ruptured ",Aortic Aneurysm,Aortic Aneurysm,Supplementary Table 1: Critical organ bleed disease codes ,ICD-9-CM
+441.5,"Aortic aneurysm of unspecified site, ruptured ",Aortic Aneurysm,Aortic Aneurysm,Supplementary Table 1: Critical organ bleed disease codes ,ICD-9-CM
+441.6," Thoraco-abdominal aneurysm, ruptured ",Aortic Aneurysm,Aortic Aneurysm,Supplementary Table 1: Critical organ bleed disease codes ,ICD-9-CM
+719.10 ," Haemarthrosis, site unspecified ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-9-CM
+719.11,"  Haemarthrosis, shoulder region ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-9-CM
+719.12 ," Haemarthrosis, upper arm ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-9-CM
+719.13 ," Haemarthrosis, forearm ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-9-CM
+719.14,"  Haemarthrosis, hand ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-9-CM
+719.15 ," Haemarthrosis, pelvic region and thigh ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-9-CM
+719.16  ,"Haemarthrosis, lower leg ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-9-CM
+719.17  ,"Haemarthrosis, ankle and foot ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-9-CM
+719.18  ,"Haemarthrosis, other specified sites ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-9-CM
+719.19  ,"Haemarthrosis, multiple sites ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-9-CM
+729.71  ,Non-traumatic compartment syndrome of upper extremity ,??,??,Supplementary Table 1: Critical organ bleed disease codes ,ICD-9-CM
+729.72  ,Non-traumatic compartment syndrome of lower extremity ,??,??,Supplementary Table 1: Critical organ bleed disease codes ,ICD-9-CM
+729.73,Non-traumatic compartment syndrome of abdomen ,??,??,Supplementary Table 1: Critical organ bleed disease codes ,ICD-9-CM
+729.79,Non-traumatic compartment syndrome of other sites ,??,??,Supplementary Table 1: Critical organ bleed disease codes ,ICD-9-CM
+998.11,Haemorrhage complicating a procedure ,any,any,Supplementary Table 1: Critical organ bleed disease codes ,ICD-9-CM
+H05.23, Haemorrhage of orbit ,Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+H05.231, Haemorrhage of right orbit ,Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+H05.232,  Haemorrhage of left orbit ,Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+H05.233,  Haemorrhage of bilateral orbit ,Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+H05.239,Haemorrhage of unspecified orbit H21.0 Hyphema ,Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+H21.00,"  Hyphema, unspecified eye ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+H21.01,"  Hyphema, right eye ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+H21.02," Hyphema, left eye ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+H21.03,"Hyphema, bilateral",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+H31.30,Unspecified choroidal haemorrhage ,Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+H31.301,"  Unspecified choroidal haemorrhage, right eye ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+H31.302," Unspecified choroidal haemorrhage, left eye ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+H31.303," Unspecified choroidal haemorrhage, bilateral ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+H31.309,"Unspecified choroidal haemorrhage, unspecified eye",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+H31.31, Expulsive choroidal haemorrhage ,Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+H31.311," Expulsive choroidal haemorrhage, right eye ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+H31.312,"  Expulsive choroidal haemorrhage, left eye ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+H31.313,"  Expulsive choroidal haemorrhage, bilateral ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+H31.319,"Expulsive choroidal haemorrhage, unspecified eye ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+H31.41 ,Haemorrhagic choroidal detachment ,Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+H31.411," Haemorrhagic choroidal detachment, right eye ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+H31.412 ,"Haemorrhagic choroidal detachment, left eye ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+H31.413,"Haemorrhagic choroidal detachment, bilateral ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+H31.419,"Haemorrhagic choroidal detachment, unspecified eye",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+H35.6,Retinal haemorrhage ,Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+H35.60," Retinal haemorrhage, unspecified eye ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+H35.61," Retinal haemorrhage, right eye ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+H35.62," Retinal haemorrhage, left eye ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+H35.63," Retinal haemorrhage, bilateral ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+H35.73,Haemorrhagic detachment of retinal pigment epithelium ,Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+H35.731," Haemorrhagic detachment of retinal pigment epithelium, right eye ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+H35.732,"Haemorrhagic detachment of retinal pigment epithelium, left eye ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+H35.733,"Haemorrhagic detachment of retinal pigment epithelium, bilateral ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+H35.739,"Haemorrhagic detachment of retinal pigment epithelium, unspecified eye",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+H43.1 , Vitreous haemorrhage,Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+H43.10," Vitreous haemorrhage, unspecified eye ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+H43.11," Vitreous haemorrhage, right eye ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+H43.12," Vitreous haemorrhage, left eye ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+H43.13," Vitreous haemorrhage, bilateral ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+H44.81,Haemophthalmos ,Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+H44.811," Haemophthalmos, right eye ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+H44.812,"Haemophthalmos, left eye ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+H44.813," Haemophthalmos, bilateral ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+H44.819,"Haemophthalmos, unspecified eye",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I23.0,Haemopericardium as current complication following acute myocardial infarction,Cardiac,Cardiac,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+ I31.2,"Haemopericardium, not elsewhere classified",Cardiac,Cardiac,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I31.4,Cardiac tamponade,Cardiac,Cardiac,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I60,Non-traumatic subarachnoid haemorrhage,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I60.0,Non-traumatic subarachnoid haemorrhage from carotid siphon and bifurcation,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I60.00, Non-traumatic subarachnoid haemorrhage from unspecified carotid siphon and bifurcation,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I60.01,Non-traumatic subarachnoid haemorrhage from right carotid siphon and bifurcation,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I60.02,Non-traumatic subarachnoid haemorrhage from left carotid siphon and bifurcation,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I60.1,Non-traumatic subarachnoid haemorrhage from middle cerebral artery,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I60.10, Non-traumatic subarachnoid haemorrhage from unspecified middle cerebral artery,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I60.11, Non-traumatic subarachnoid haemorrhage from right middle cerebral artery,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I60.12, Non-traumatic subarachnoid haemorrhage from left middle cerebral artery ,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I60.2,Non-traumatic subarachnoid haemorrhage from anterior communicating artery,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I60.3, Non-traumatic subarachnoid haemorrhage from posterior communicating artery,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I60.30, Non-traumatic subarachnoid haemorrhage from unspecified posterior communicating artery ,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I60.31,Non-traumatic subarachnoid haemorrhage from right posterior communicating artery,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I60.32, Non-traumatic subarachnoid haemorrhage from left posterior communicating artery,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I60.4, Non-traumatic subarachnoid haemorrhage from basilar artery,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I60.5, Non-traumatic subarachnoid haemorrhage from vertebral artery,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I60.50, Non-traumatic subarachnoid haemorrhage from unspecified vertebral artery,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I60.51, Non-traumatic subarachnoid haemorrhage from right vertebral artery ,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I60.52, Non-traumatic subarachnoid haemorrhage from left vertebral artery ,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I60.6,Non-traumatic subarachnoid haemorrhage from other intracranial arteries ,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I60.7,Non-traumatic subarachnoid haemorrhage from unspecified intracranial artery ,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I60.8,Other non-traumatic subarachnoid haemorrhage ,5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I60.9,"Non-traumatic subarachnoid haemorrhage, unspecified ",5, SubarachnoidHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I61,Non-traumatic intracerebral haemorrhage ,4,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I61.0 ,Non-traumatic intracerebral haemorrhage ,4,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I61.1,Non-traumatic intracerebral haemorrhage ,4,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I61.2,Non-traumatic intracerebral haemorrhage ,4,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I61.3, Non-traumatic intracerebral haemorrhage ,4,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I61.4,Non-traumatic intracerebral haemorrhage ,4,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I61.5," Non-traumatic intracerebral haemorrhage, intraventricular ",4,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I61.6,"Non-traumatic intracerebral haemorrhage, multiple localised ",4,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I61.8,Other non-traumatic intracerebral haemorrhage ,4,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I61.9,"Non-traumatic intracerebral haemorrhage, unspecified ",4,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I62,Other and unspecified non-traumatic intracranial haemorrhage ,4,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I62.0,Non-traumatic subdural haemorrhage ,6,SubduralHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I62.00," Non-traumatic subdural haemorrhage, unspecified ",6,SubduralHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I62.01,Non-traumatic acute subdural haemorrhage ,6,SubduralHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I62.02,Non-traumatic subacute subdural haemorrhage ,6,SubduralHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I62.03,Non-traumatic chronic subdural haemorrhage ,6,SubduralHaemorrhage,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I62.1,Non-traumatic extradural haemorrhage,4,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I62.9,"Non-traumatic intracranial haemorrhage, unspecified",4,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I71.1,"Thoracic aortic aneurysm, ruptured",Aortic Aneurysm,Aortic Aneurysm,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I71.3,"Abdominal aortic aneurysm, ruptured",Aortic Aneurysm,Aortic Aneurysm,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I71.5,"Thoraco-abdominal aortic aneurysm, ruptured",Aortic Aneurysm,Aortic Aneurysm,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+I71.8 ,"Aortic aneurysm of unspecified site, ruptured",Aortic Aneurysm,Aortic Aneurysm,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+M25.0,Haemarthrosis ,3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+M25.00," Haemarthrosis, unspecified joint ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+M25.01,"Haemarthrosis, shoulder ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+M25.011,"Haemarthrosis, right shoulder ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+M25.012," Haemarthrosis, left shoulder ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+M25.019,"Haemarthrosis, unspecified shoulder",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+M25.02,"Haemarthrosis, elbow ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+M25.021,"Haemarthrosis, right elbow ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+M25.022,"Haemarthrosis, left elbow ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+M25.029,"Haemarthrosis, unspecified elbow",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+M25.03,"Haemarthrosis, wrist ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+M25.031,"Haemarthrosis, right wrist ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+M25.032,"Haemarthrosis, left wrist ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+M25.039,"Haemarthrosis, unspecified wrist",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+M25.04,"Haemarthrosis, hand ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+M25.041,"Haemarthrosis, right hand ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+M25.042,"Haemarthrosis, left hand ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+M25.049,"Haemarthrosis, unspecified hand",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+M25.05,"Haemarthrosis, hip ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+M25.051,"Haemarthrosis, right hip ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+M25.052,"Haemarthrosis, left hip ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+M25.059,"Haemarthrosis, unspecified hip",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+M25.06,"Haemarthrosis, knee ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+M25.061,"Haemarthrosis, right knee ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+M25.062,"Haemarthrosis, left knee ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+M25.069,"Haemarthrosis, unspecified knee",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+M25.07,"Haemarthrosis, ankle and foot ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+M25.071,"Haemarthrosis, right ankle ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+M25.072,"Haemarthrosis, left ankle ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+M25.073,"Haemarthrosis, unspecified ankle ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+M25.074,"Haemarthrosis, right foot ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+M25.075,"Haemarthrosis, left foot ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+M25.076,"Haemarthrosis, unspecified foot ",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+M25.08,"Haemarthrosis, other specified site",3,IntracerebralBleed,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+ M79.A,Non-traumatic compartment syndrome ,??,??,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+M79.A1,Non-traumatic compartment syndrome of upper extremity,??,??,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+M79.A11,Non-traumatic compartment syndrome of right upper extremity,??,??,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+M79.A12,Non-traumatic compartment syndrome of left upper extremity,??,??,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+M79.A19,Non-traumatic compartment syndrome of unspecified upper extremity,??,??,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+M79.A2,Non-traumatic compartment syndrome of lower extremity,??,??,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+M79.A21, Non-traumatic compartment syndrome of right lower extremity,??,??,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+M79.A22,Non-traumatic compartment syndrome of left lower extremity,??,??,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+M79.A29,Non-traumatic compartment syndrome of unspecified lower extremity ,??,??,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+ M79.A3 ,Non-traumatic compartment syndrome of abdomen,??,??,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+M79.A9,Non-traumatic compartment syndrome of other sites,??,??,Supplementary Table 1: Critical organ bleed disease codes ,ICD-10-CM
+246.3,Haemorrhage and infarction of thyroid ,Thyroid,Thyroid,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+287.8,Other specified haemorrhagic conditions ,Any,Any,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+287.9,Unspecified haemorrhagic conditions ,Any,Any,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+374.81,Haemorrhage of eyelid,Eye,Eye,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+377.42,Haemorrhage in optic nerve sheaths,Eye,Eye,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+456.0,Oesophageal varices with bleeding,2,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+456.20,"Oesophageal varices in diseases classified elsewhere, with bleeding",2,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+459.0,"Haemorrhage, unspecified",Any,Any,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+530.21,Ulcer of oesophagus with bleeding,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+530.7,Gastro-oesophageal laceration-haemorrhage syndrome,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+530.82,Oesophageal haemorrhage,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+531.0,Acute gastric ulcer with haemorrhage ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+531.00,"Acute gastric ulcer with haemorrhage, without mention of obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+531.01,"Acute gastric ulcer with haemorrhage, with obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+531.2, Acute gastric ulcer with haemorrhage and perforation ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+531.20,"Acute gastric ulcer with haemorrhage and perforation, without mention of obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+531.21,"Acute gastric ulcer with haemorrhage and perforation, with obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+531.4,Chronic or unspecified gastric ulcer with haemorrhage ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+531.40,"Chronic or unspecified gastric ulcer with haemorrhage, without mention of obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+531.41,"Chronic or unspecified gastric ulcer with haemorrhage, with obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+531.6,Chronic or unspecified gastric ulcer with haemorrhage and perforation ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+531.60,"Chronic or unspecified gastric ulcer with haemorrhage and perforation, without mention of obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+531.61 ,"Chronic or unspecified gastric ulcer with haemorrhage and perforation, with obstruction",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+532.0,Acute duodenal ulcer with haemorrhage ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+532.00,"Acute duodenal ulcer with haemorrhage, without mention of obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+532.01,"Acute duodenal ulcer with haemorrhage, with obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+532.2,Acute duodenal ulcer with haemorrhage and perforation ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+532.20,"Acute duodenal ulcer with haemorrhage and perforation, without mention of obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+532.21,"Acute duodenal ulcer with haemorrhage and perforation, with obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+532.4,Chronic or unspecified duodenal ulcer with haemorrhage ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+532.40,"Chronic or unspecified duodenal ulcer with haemorrhage, without mention of obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+532.41,"Chronic or unspecified duodenal ulcer with haemorrhage, with obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+532.6,Chronic or unspecified duodenal ulcer with haemorrhage and perforation ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+532.60 ,"Chronic or unspecified duodenal ulcer with haemorrhage and perforation, without mention of obstruction",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+532.61,"Chronic or unspecified duodenal ulcer with haemorrhage and perforation, with obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+533.0,Acute peptic ulcer of unspecified site with haemorrhage ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+533.00,"Acute peptic ulcer of unspecified site with haemorrhage, without mention of obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+533.01," Acute peptic ulcer of unspecified site with haemorrhage, with obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+533.2,Acute peptic ulcer of unspecified site with haemorrhage and perforation ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+533.20,"Acute peptic ulcer of unspecified site with haemorrhage and perforation, without mention of obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+533.21," Acute peptic ulcer of unspecified site with haemorrhage and perforation, with obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+533.4,Chronic or unspecified peptic ulcer of unspecified site with haemorrhage ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+533.40,"Chronic or unspecified peptic ulcer of unspecified site with haemorrhage, without mention of obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+533.41,"Chronic or unspecified peptic ulcer of unspecified site with haemorrhage, with obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+533.6,Chronic or unspecified peptic ulcer of unspecified site with haemorrhage and perforation ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+533.60,"Chronic or unspecified peptic ulcer of unspecified site with haemorrhage and perforation, without mention of obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+533.61,"Chronic or unspecified peptic ulcer of unspecified site with haemorrhage and perforation, with obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+534.0,Acute gastrojejunal ulcer with haemorrhage ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+534.00,"Acute gastrojejunal ulcer with haemorrhage, without mention of obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+534.01,"Acute gastrojejunal ulcer with haemorrhage, with obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+534.2,Acute gastrojejunal ulcer with haemorrhage and perforation ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+534.20,"Acute gastrojejunal ulcer with haemorrhage and perforation, without mention of obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+534.21,"Acute gastrojejunal ulcer with haemorrhage and perforation, with obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+534.4,Chronic or unspecified gastrojejunal ulcer with haemorrhage ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+534.40,"Chronic or unspecified gastrojejunal ulcer with haemorrhage, without mention of obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+534.41,"Chronic or unspecified gastrojejunal ulcer with haemorrhage, with obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+534.6,Chronic or unspecified gastrojejunal ulcer with haemorrhage and perforation ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+534.60,"Chronic or unspecified gastrojejunal ulcer with haemorrhage and perforation, without mention of obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+534.61,"Chronic or unspecified gastrojejunal ulcer with haemorrhage and perforation, with obstruction ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+535.01,"Acute gastritis, with haemorrhage",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+535.11,"Atrophic gastritis, with haemorrhage",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+535.21,"Gastric mucosal hypertrophy, with haemorrhage",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+535.31,"Alcoholic gastritis, with haemorrhage",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+535.41,"Other specified gastritis, with haemorrhage",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+535.51,"Unspecified gastritis and gastroduodenitis, with haemorrhage",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+535.61,"Duodenitis, with haemorrhage",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+535.71,"Eosinophilic gastritis, with haemorrhage ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+537.83,Angiodysplasia of stomach and duodenum with haemorrhage ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+537.84,Dieulafoy lesion (haemorrhagic) of stomach and duodenum ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+562.02,Diverticulosis of small intestine with haemorrhage ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+562.03,Diverticulitis of small intestine with haemorrhage ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+562.12, Diverticulosis of colon with haemorrhage ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+562.13 ,Diverticulitis of colon with haemorrhage,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+568.81,Haemoperitoneum (non-traumatic),2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+569.3,Haemorrhage of rectum and anus ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+569.85,Angiodysplasia of intestine with haemorrhage ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+569.86,Dieulafoy lesion (haemorrhagic) of intestine ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+578,Gastrointestinal haemorrhage ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+578.0, Haematemesis ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+578.1,Blood in stool ,2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+578.9,"Haemorrhage of gastrointestinal tract, unspecified ",2  ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+593.81,Vascular disorders of kidney,Consider urinary,Consider urinary,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+596.7,Haemorrhage into bladder wall,Consider urinary,Consider urinary,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+599.71,Gross haematuria,Consider urinary,Consider urinary,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+602.1, Congestion or haemorrhage of prostate,Consider urinary,Consider urinary,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+620.7,Haematoma of broad ligament,Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+621.4,Haematometra ,Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+623.6,Vaginal haematoma,Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+624.5,Haematoma of vulva,Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+626.2,Excessive or frequent menstruation ,Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+626.5,Ovulation bleeding ,Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+626.6,Metrorrhagia ,Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+626.7,Postcoital bleeding ,Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+626.8, Other disorders of menstruation and other abnormal bleeding from female genital tract ,Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+626.9,  Unspecified disorders of menstruation and other abnormal bleeding from female genital tract ,Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+627.1, Postmenopausal bleeding,Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+629.0,"Haematocele, female, not elsewhere classified ",Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+729.92, Non-traumatic haematoma of soft tissue,Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+ 782.7 ,Spontaneous ecchymoses ,7 but just bruises,Haematoma but just bruises,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+784.7,  Epistaxis,"ENT (Ear, Nose and Throat)","ENT (Ear, Nose and Throat)",Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+784.8,  Haemorrhage from throat ,"ENT (Ear, Nose and Throat)","ENT (Ear, Nose and Throat)",Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+786.3, Haemoptysis ,Consider respiratory,Consider respiratory,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+786.30,"  Haemoptysis, unspecified ",Consider respiratory,Consider respiratory,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+786.31,  Acute idiopathic pulmonary haemorrhage in infants [AIPHI] ,Infants leave out,Infants leave out,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+786.39, Other haemoptysis,Consider respiratory,Consider respiratory,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+790.01,Precipitous drop in haematocrit ,Any,Any,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+D68.32,Haemorrhagic disorder due to extrinsic circulating anticoagulants ,Any,Any,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+H47.02,Haemorrhage in optic nerve sheath,Eye,Eye,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+H47.021,Haemorrhage in optic nerve ,Eye,Eye,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+H47.022,Haemorrhage in optic nerve ,Eye,Eye,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+H47.023 ,Haemorrhage in optic nerve,Eye,Eye,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+H47.029,Haemorrhage in optic nerve,Eye,Eye,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+H60.32 ,Haemorrhagic otitis externa ,"ENT (Ear, Nose and Throat)","ENT (Ear, Nose and Throat)",Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+H60.321,"Haemorrhagic otitis externa, right ear ","ENT (Ear, Nose and Throat)","ENT (Ear, Nose and Throat)",Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+H60.322,"Haemorrhagic otitis externa, left ear ","ENT (Ear, Nose and Throat)","ENT (Ear, Nose and Throat)",Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+H60.323,"Haemorrhagic otitis externa, bilateral ","ENT (Ear, Nose and Throat)","ENT (Ear, Nose and Throat)",Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+H60.329,"Haemorrhagic otitis externa, unspecified ear","ENT (Ear, Nose and Throat)","ENT (Ear, Nose and Throat)",Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+H92.2,Otorrhagia ,"ENT (Ear, Nose and Throat)","ENT (Ear, Nose and Throat)",Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+H92.20,"Otorrhagia, unspecified ear ","ENT (Ear, Nose and Throat)","ENT (Ear, Nose and Throat)",Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+H92.21," Otorrhagia, right ear ","ENT (Ear, Nose and Throat)","ENT (Ear, Nose and Throat)",Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+H92.22,"Otorrhagia, left ear ","ENT (Ear, Nose and Throat)","ENT (Ear, Nose and Throat)",Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+H92.23,"Otorrhagia, bilateral ","ENT (Ear, Nose and Throat)","ENT (Ear, Nose and Throat)",Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+I85.01,Oesophageal varices with bleeding,2   ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+I85.11,Secondary oesophageal varices with bleeding ,2   ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+J94.2,Haemothorax ,Consider respiratory,Consider respiratory,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K20.81,Other oesophagitis with bleeding,2   ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K20.91,"Oesophagitis, unspecified with bleeding",2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K22.11,Ulcer of oesophagus with bleeding,2   ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K22.6,Gastro-oesophageal laceration-haemorrhage syndrome,2   ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K25.0,Acute gastric ulcer with haemorrhage,2   ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K25.2,Acute gastric ulcer with both haemorrhage and perforation,2   ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K25.4,Chronic or unspecified gastric ulcer with haemorrhage,2    ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K25.6,Chronic or unspecified gastric ulcer with both haemorrhage and perforation,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K26.0,Acute duodenal ulcer with haemorrhage,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K26.2,Acute duodenal ulcer with both haemorrhage and perforation,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K26.4,Chronic or unspecified duodenal ulcer with haemorrhage,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K26.6,Chronic or unspecified duodenal ulcer with both haemorrhage and perforation,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K27.0," Acute peptic ulcer, site unspecified, with haemorrhage",2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K27.2,"Acute peptic ulcer, site unspecified, with both haemorrhage and perforation",2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K27.4,"Chronic or unspecified peptic ulcer, site unspecified, with haemorrhage",2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K27.6,"Chronic or unspecified peptic ulcer, site unspecified, with both haemorrhage and perforation",2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K28.0,Acute gastrojejunal ulcer with haemorrhage,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K28.2, Acute gastrojejunal ulcer with both haemorrhage and perforation ,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K28.4,Chronic or unspecified gastrojejunal ulcer with haemorrhage,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K28.6,Chronic or unspecified gastrojejunal ulcer with both haemorrhage and perforation,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K29.01,Acute gastritis with bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K29.21,Alcoholic gastritis with bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K29.31,Chronic superficial gastritis with bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K29.41,Chronic atrophic gastritis with bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K29.51,Unspecified chronic gastritis with bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K29.61,Other gastritis with bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K29.71,"Gastritis, unspecified, with bleeding",2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K29.81,Duodenitis with bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K29.91,"Gastroduodenitis, unspecified, with bleeding",2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K31.811,Angiodysplasia of stomach and duodenum with bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K50.011,Crohn’s disease of small intestine with rectal bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K50.111,Crohn’s disease of large intestine with rectal bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K50.811,Crohn’s disease of both small and large intestine with rectal bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K50.911,"Crohn’s disease, unspecified, with rectal bleeding",2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K51.011,Ulcerative (chronic) pancolitis with rectal bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K51.211,Ulcerative (chronic) proctitis with rectal bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K51.311,Ulcerative (chronic) rectosigmoiditis with rectal bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K51.411,Inflammatory polyps of colon with rectal bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K51.511,Left-sided colitis with rectal bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K51.811,Other ulcerative colitis with rectal bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K51.911,"Ulcerative colitis, unspecified with rectal bleeding",2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K55.21,Angiodysplasia of colon with haemorrhage,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K57.01,Diverticulitis of small intestine with perforation and abscess with bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K57.11,Diverticulosis of small intestine without perforation or abscess with bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K57.13, Diverticulitis of small intestine without perforation or abscess with bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K57.21,Diverticulitis of large intestine with perforation and abscess with bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K57.31,Diverticulosis of large intestine without perforation or abscess with bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K57.33,Diverticulitis of large intestine without perforation or abscess with bleeding,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K57.41,Diverticulitis of both small and large intestine with perforation and abscess with bleeding ,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K57.51,Diverticulosis of both small and large intestine without perforation or abscess with bleeding ,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K57.53,Diverticulitis of both small and large intestine without perforation or abscess with bleeding ,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K57.81,"Diverticulitis of intestine, part unspecified, with perforation and abscess with bleeding ",2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K57.91,"Diverticulosis of intestine, part unspecified, without perforation or abscess with bleeding ",2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K57.93 ,"Diverticulitis of intestine, part unspecified, without perforation or abscess with bleeding",2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K62.5,Haemorrhage of anus and rectum,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K63.81, Dieulafoy lesion of intestine,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K66.1,Haemoperitoneum ,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K92.0,Haematemesis ,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K92.1, Melena ,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K92.2,"Gastrointestinal haemorrhage, unspecified ",2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K94.01, Colostomy haemorrhage,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K94.11,Enterostomy haemorrhage,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K94.21,Gastrostomy haemorrhage,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+K94.31,Oesophagostomy haemorrhage,2 ,GI_Bleed,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+M79.81,Non-traumatic haematoma of soft tissue,7,Haematoma,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+N30.01,Acute cystitis with haematuria,Consider urinary,Consider urinary,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+N30.11,Interstitial cystitis (chronic) with haematuria ,Consider urinary,Consider urinary,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+N30.21,Other chronic cystitis with haematuria,Consider urinary,Consider urinary,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+N30.31,Trigonitis with haematuria,Consider urinary,Consider urinary,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+N30.41,Irradiation cystitis with haematuria,Consider urinary,Consider urinary,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+N30.81,Other cystitis with haematuria,Consider urinary,Consider urinary,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+N30.91,"Cystitis, unspecified with haematuria",Consider urinary,Consider urinary,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+N42.1,Congestion and haemorrhage of prostate N83.7 Haematoma of broad ligament,Consider urinary,Consider urinary,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+N85.7,Haematometra ,Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+N92.0,Excessive and frequent menstruation with regular cycle ,Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+N92.1,Excessive and frequent menstruation with irregular cycle ,Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+N92.3,Ovulation bleeding ,Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+N92.4,Excessive bleeding in the pre-menopausal period ,Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+N93,Other abnormal uterine and vaginal bleeding ,Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+N93.0, Postcoital and contact bleeding ,Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+N93.1,Pre-pubertal vaginal bleeding ,Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+N93.8, Other specified abnormal uterine and vaginal bleeding ,Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+N93.9," Abnormal uterine and vaginal bleeding, unspecified ",Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+N95.0, Postmenopausal bleeding ,Gynae,Gynae,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+R04.0,Epistaxis ,"ENT (Ear, Nose and Throat)","ENT (Ear, Nose and Throat)",Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+R04.1,Haemorrhage from throat ,"ENT (Ear, Nose and Throat)","ENT (Ear, Nose and Throat)",Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+R04.2,Haemoptysis ,Consider respiratory,Consider respiratory,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+R04.81,Acute idiopathic pulmonary haemorrhage in infants,Consider respiratory,Consider respiratory,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+R04.89,Haemorrhage from other sites in respiratory passages ,Consider respiratory,Consider respiratory,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+R04.9 ,"Haemorrhage from respiratory passages, unspecified",Consider respiratory,Consider respiratory,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+R23.3,Spontaneous ecchymoses,7 but just bruises,Haematoma but just bruises,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+R31.0,Gross haematuria,Consider urinary,Consider urinary,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+R58,"Haemorrhage, not elsewhere classified",Any,Any,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+R71.0, Precipitous drop in haematocrit ,Any,Any,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+280.0, Iron deficiency anaemia secondary to blood loss (chronic) ,Any,Any,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+285.1,Acute post-haemorrhagic anaemia,Any,Any,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+285.9,"Anaemia, unspecified ",Any,Any,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+455.0,Internal haemorrhoids without mention of complication ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+455.1,Internal thrombosed haemorrhoids ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+455.2,Internal haemorrhoids with other complication ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+455.3,External haemorrhoids without mention of complication ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+455.4,External thrombosed haemorrhoids ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+455.5,External haemorrhoids with other complication ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+455.6,Unspecified haemorrhoids without mention of complication ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+455.7 ,Unspecified thrombosed haemorrhoids,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+455.8,Unspecified haemorrhoids with other complication ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+455.9,Residual haemorrhoidal skin tags ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+530.10," Oesophagitis, unspecified ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+530.11, Reflux oesophagitis ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+530.12, Acute oesophagitis ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+530.13,Eosinophilic oesophagitis ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+530.19, Other oesophagitis ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+531.10,"Acute gastric ulcer with perforation, without mention of obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+531.11,"Acute gastric ulcer with perforation, with obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+531.30,"Acute gastric ulcer without mention of haemorrhage or perforation, without mention of obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+531.31,"Acute gastric ulcer without mention of haemorrhage or perforation, with obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+531.50,"Chronic or unspecified gastric ulcer with perforation, without mention of obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+531.51," Chronic or unspecified gastric ulcer with perforation, with obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+531.70,"Chronic gastric ulcer without mention of haemorrhage or perforation, without mention of obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+531.71,"Chronic gastric ulcer without mention of haemorrhage or perforation, with obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+531.90,"Gastric ulcer, unspecified as acute or chronic, without mention of haemorrhage or perforation, without mention of obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+531.91,"Gastric ulcer, unspecified as acute or chronic, without mention of haemorrhage or perforation, with obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+532.30,"Acute duodenal ulcer without mention of haemorrhage or perforation, without mention of obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+532.31,"Acute duodenal ulcer without mention of haemorrhage or perforation, with obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+532.50,"Chronic or unspecified duodenal ulcer with perforation, without mention of obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+532.51,"Chronic or unspecified duodenal ulcer with perforation, with obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+532.70,"Chronic duodenal ulcer without mention of haemorrhage or perforation, without mention of obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+532.71,"Chronic duodenal ulcer without mention of haemorrhage or perforation, with obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+532.90,"Duodenal ulcer, unspecified as acute or chronic, without haemorrhage or perforation, without mention of obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+532.91,"Duodenal ulcer, unspecified as acute or chronic, without mention of haemorrhage or perforation, with obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+533.10,"Acute peptic ulcer of unspecified site with perforation, without mention of obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+533.11,"Acute peptic ulcer of unspecified site with perforation, with obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+533.30,"Acute peptic ulcer of unspecified site without mention of haemorrhage and perforation, without mention of obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+533.31,"Acute peptic ulcer of unspecified site without mention of haemorrhage and perforation, with obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+533.50,"Chronic or unspecified peptic ulcer of unspecified site with perforation, without mention of obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+533.51," Chronic or unspecified peptic ulcer of unspecified site with perforation, with obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+533.70,"Chronic peptic ulcer of unspecified site without mention of haemorrhage or perforation, without mention of obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+533.71,"Chronic peptic ulcer of unspecified site without mention of haemorrhage or perforation, with obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+533.90,"Peptic ulcer of unspecified site, unspecified as acute or chronic, without mention of haemorrhage or perforation, without mention of obstruction",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+533.91,"Peptic ulcer of unspecified site, unspecified as acute or chronic, without mention of haemorrhage or perforation, with obstruction",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+534.10,"Acute gastrojejunal ulcer with perforation, without mention of obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+534.11,"Acute gastrojejunal ulcer with perforation, with obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+534.30," Acute gastrojejunal ulcer without mention of haemorrhage or perforation, without mention of obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+534.31,"Acute gastrojejunal ulcer without mention of haemorrhage or perforation, with obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+534.50,"Chronic or unspecified gastrojejunal ulcer with perforation, without mention of obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+534.51,"Chronic or unspecified gastrojejunal ulcer with perforation, with obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+534.70,"Chronic gastrojejunal ulcer without mention of haemorrhage or perforation, without mention of obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+534.71,"Chronic gastrojejunal ulcer without mention of haemorrhage or perforation, with obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+534.90,"Gastrojejunal ulcer, unspecified as acute or chronic, without mention of haemorrhage or perforation, without mention of obstruction",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+534.91,"Gastrojejunal ulcer, unspecified as acute or chronic, without mention of haemorrhage or perforation, with obstruction ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+535.00,"Acute gastritis, without mention of haemorrhage",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+535.10,"Atrophic gastritis, without mention of haemorrhage",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+535.20,"Gastric mucosal hypertrophy, without mention of haemorrhage",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+535.30,"Alcoholic gastritis, without mention of haemorrhage",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+535.40,"Other specified gastritis, without mention of haemorrhage",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+535.50,"Unspecified gastritis and gastroduodenitis, without mention of haemorrhage ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+535.60 ,"Duodenitis, without mention of haemorrhage",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+562.00,Diverticulosis of small intestine (without mention of haemorrhage) ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+562.01,Diverticulitis of small intestine (without mention of haemorrhage) ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+562.10, Diverticulosis of colon (without mention of haemorrhage) ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+562.11,Diverticulitis of colon (without mention of haemorrhage) ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+599.70,"Haematuria, unspecified",Consider urinary,Consider urinary,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+ 599.72,Microscopic haematuria ,Consider urinary,Consider urinary,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+790.92,Abnormal coagulation profile ,Any,Any,Supplementary Table 3: Possible bleed codes ,ICD-9-CM
+D50.0,Iron deficiency anaemia secondary to blood loss (chronic) ,Any,Any,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+D62,Acute post-haemorrhagic anaemia,Any,Any,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+D64.9,"Anaemia, unspecified",Any,Any,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K20.0,Eosinophilic oesophagitis ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K20.8,Other oesophagitis ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K20.9,"Oesophagitis, unspecified ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K21.0,Gastro-oesophageal reflux disease with oesophagitis ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K25.1,Acute gastric ulcer with perforation ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K25.3,Acute gastric ulcer without haemorrhage or perforation,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K25.5,Chronic or unspecified gastric ulcer with perforation,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K25.7,Chronic gastric ulcer without haemorrhage or perforation,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K25.9,"Gastric ulcer, unspecified as acute or chronic, without haemorrhage or perforation",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K26.3,Acute duodenal ulcer without haemorrhage or perforation ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K26.5,Chronic or unspecified duodenal ulcer with perforation,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K26.7,Chronic duodenal ulcer without haemorrhage or perforation,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K26.9,"Duodenal ulcer, unspecified as acute or chronic, without haemorrhage or perforation",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K27.1,"Acute peptic ulcer, site unspecified, with perforation",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K27.3,"Acute peptic ulcer, site unspecified, without haemorrhage or perforation",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K27.5,"Chronic or unspecified peptic ulcer, site unspecified, with perforation",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K27.7,"Chronic peptic ulcer, site unspecified, without haemorrhage or perforation",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K27.9,"Peptic ulcer, site unspecified, unspecified as acute or chronic, without haemorrhage or perforation",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K28.1,Acute gastrojejunal ulcer with perforation,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K28.3,Acute gastrojejunal ulcer without haemorrhage or perforation,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K28.5,Chronic or unspecified gastrojejunal ulcer with perforation,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K28.7,Chronic gastrojejunal ulcer without haemorrhage or perforation,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K28.9,"Gastrojejunal ulcer, unspecified as acute or chronic, without haemorrhage or perforation",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K29.00,Acute gastritis without bleeding,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K29.20,Alcoholic gastritis without bleeding,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K29.30,Chronic superficial gastritis without bleeding,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K29.40, Chronic atrophic gastritis without bleeding,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K29.50,Unspecified chronic gastritis without bleeding,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K29.60,Other gastritis without bleeding,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K29.70,"Gastritis, unspecified, without bleeding",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K29.80,Duodenitis without bleeding,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K29.90,"Gastroduodenitis, unspecified, without bleeding",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K56.699,Other intestinal obstruction unspecified as to partial versus complete obstruction,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K57.00,Diverticulitis of small intestine with perforation and abscess without bleeding,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K57.10,Diverticulosis of small intestine without perforation or abscess without bleeding,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K57.12,Diverticulitis of small intestine without perforation or abscess without bleeding,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K57.20,Diverticulitis of large intestine with perforation and abscess without bleeding,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K57.30,Diverticulosis of large intestine without perforation or abscess without bleeding,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K57.32,Diverticulitis of large intestine without perforation or abscess without bleeding,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K57.40,Diverticulitis of both small and large intestine with perforation and abscess without bleeding ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K57.50,Diverticulosis of both small and large intestine without perforation or abscess without bleeding ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K57.52,Diverticulitis of both small and large intestine without perforation or abscess without bleeding,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K57.80,"Diverticulitis of intestine, part unspecified, with perforation and abscess without bleeding",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K57.90,"Diverticulosis of intestine, part unspecified, without perforation or abscess without bleeding ",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K57.92 ,"Diverticulitis of intestine, part unspecified, without perforation or abscess without bleeding",2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K64.0,First degree haemorrhoids ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K64.1,Second degree haemorrhoids ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K64.2,Third degree haemorrhoids ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K64.3,Fourth degree haemorrhoids ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K64.4,Residual haemorrhoidal skin tags ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K64.5,Perianal venous thrombosis ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K64.8,Other haemorrhoids ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+K64.9,Unspecified haemorrhoids ,2,GI_Bleed,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+R31.1,Benign essential microscopic haematuria ,Consider urinary,Consider urinary,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+R31.2,Other microscopic haematuria ,Consider urinary,Consider urinary,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+R31.21,Asymptomatic microscopic haematuria,Consider urinary,Consider urinary,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+R31.29,Other microscopic haematuria,Consider urinary,Consider urinary,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+R31.9,"Haematuria, unspecified",Consider urinary,Consider urinary,Supplementary Table 3: Possible bleed codes ,ICD-10-CM
+R79.1,Abnormal coagulation profile ,Any,Any,Supplementary Table 3: Possible bleed codes ,ICD-10-CM

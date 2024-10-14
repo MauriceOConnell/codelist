@@ -1,0 +1,13 @@
+﻿SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comments
+out,,,,,
+1.0971E+13,Myocardial ischemia during surgery (disorder),Angina,??,['Caliber'],covid_impact_ccu00201_angina_England_SNOMEDCT.csv
+,,,,,
+ischaemic heart disease,ALREADY IN ISCHAEMIC HEART DISEASSE,,,,
+414545008,Ischemic heart disease (disorder),Angina,??,['Caliber'],covid_impact_ccu00201_angina_England_SNOMEDCT.csv
+,,,,,
+ACS or MI,ALREADY IN ischaemic heart disease and keeping acs in ihd as per Alan email,,,,
+394659003,Acute coronary syndrome (disorder),Angina,??,['Caliber'],covid_impact_ccu00201_angina_England_SNOMEDCT.csv
+394659003,Acute coronary syndrome (disorder),UnstableAngina,??,['Caliber'],covid_impact_ccu00201_unstable_angina_England_SNOMEDCT.csv
+,,,,,
+One comment says leave in as angina and the other says ischaemic heart disease so which one??,ALREADY IN ISCHAEMIC HEART DISEASSE and previous comment said not acs in alan email sept 2024,,,,
+413838009,Chronic ischemic heart disease (disorder),Angina,??,['Caliber'],covid_impact_ccu00201_angina_England_SNOMEDCT.csv

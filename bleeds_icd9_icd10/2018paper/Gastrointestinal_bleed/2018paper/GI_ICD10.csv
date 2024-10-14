@@ -1,0 +1,40 @@
+﻿ICD10,Description
+I85.0 ,Esophageal varices with bleeding
+K25.0 ,"Gastric ulcer, acute with hemorrhage"
+K25.2 ,"Gastric ulcer, acute with both hemorrhage and perforation"
+ K25.4 ,"Gastric ulcer, chronic or unspecified with hemorrhage"
+K25.6 ,Chronic or unspecified with both hemorrhage and perforation
+K26.0 ,"Duodenal ulcer, acute with hemorrhage"
+K26.2 ,"Duodenal ulcer, acute with both hemorrhage and perforation"
+K26.4 ,"Duodenal ulcer, chronic or unspecified with hemorrhage"
+K26.6 ,Chronic or unspecified with both hemorrhage and perforation
+K27.0 ,"Peptic ulcer, acute with hemorrhage"
+K27.2,"Peptic ulcer, acute with both hemorrhage and perforation"
+ K27.4 ,"Peptic ulcer, chronic or unspecified with hemorrhage"
+K27.6 ,Chronic or unspecified with both hemorrhage and perforation
+K28.0,"Gastrojejunal ulcer, acute with hemorrhage"
+K28.2 ,Acute with both hemorrhage and perforation
+K28.4 ,"Gastrojejunal ulcer, chronic or unspecified with hemorrhage"
+K28.6 ,Chronic or unspecified with both hemorrhage and perforation
+K29.0 ,Acute hemorrhagic gastritis
+K62.5 ,Hemorrhage of anus and rectum
+K92.0 ,Hematemesis
+K92.1 ,Melena
+K92.2 ,"Gastrointestinal hemorrhage, unspecified"
+I84.1 ,Internal hemorrhoids with other complications
+I84.3 ,External thrombosed hemorrhoids
+I84.4,External hemorrhoids with other complications
+ I84.8 ,Unspecified hemorrhoids with other complications
+I98.3 ,Esophageal varices with bleeding in diseases classified elsewhere
+K22.6 ,Gastro-esophageal laceration-hemorrhage syndrome
+K31.8 ,Angiodysplasia of stomach and duodenum with hemorrhage
+K55.2 ,Angiodysplasia of the colon with bleeding
+K55.8 ,Angiodysplasia of the small intestine with hemorrhage
+K57.0 ,"Diverticulosis of the small intestine with perforation, abscess and bleeding"
+K57.1 ,"Diverticulosis of the small intestine without perforation and abscess, with bleeding"
+K57.2 ,"Diverticulosis of the colon with perforation, abscess and bleeding"
+K57.3 ,"Diverticulosis of the colon without perforation or abscess, with bleeding"
+K57.4 ,"Diverticular disease of both the small intestine and the large intestine with perforation, abscess and bleeding"
+K57.5,"Diverticular disease of both the small intestine and the large intestine without perforation or abscess, with GI bleeding"
+K57.8 ,"Diverticular disease of intestine, part unspecified, with perforation, abscess and bleeding "
+K57.9 ,"GI Diverticular disease of intestine, part unspecified, without perforation or abscess, with bleeding GI "

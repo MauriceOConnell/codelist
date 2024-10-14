@@ -1,0 +1,21 @@
+﻿ICD-9_or_10-CM,Description,GroupNumber,Grouping,Table,ICD9_or_10
+593.81,Vascular disorders of kidney,Consider urinary,Consider urinary,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+596.7,Haemorrhage into bladder wall,Consider urinary,Consider urinary,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+599.71,Gross haematuria,Consider urinary,Consider urinary,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+602.1, Congestion or haemorrhage of prostate,Consider urinary,Consider urinary,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+N30.01,Acute cystitis with haematuria,Consider urinary,Consider urinary,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+N30.11,Interstitial cystitis (chronic) with haematuria ,Consider urinary,Consider urinary,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+N30.21,Other chronic cystitis with haematuria,Consider urinary,Consider urinary,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+N30.31,Trigonitis with haematuria,Consider urinary,Consider urinary,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+N30.41,Irradiation cystitis with haematuria,Consider urinary,Consider urinary,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+N30.81,Other cystitis with haematuria,Consider urinary,Consider urinary,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+N30.91,"Cystitis, unspecified with haematuria",Consider urinary,Consider urinary,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+N42.1,Congestion and haemorrhage of prostate N83.7 Haematoma of broad ligament,Consider urinary,Consider urinary,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+R31.0,Gross haematuria,Consider urinary,Consider urinary,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+599.70,"Haematuria, unspecified",Consider urinary,Consider urinary,Supplementary Table 3: Possible bleed codes,ICD-9-CM
+ 599.72,Microscopic haematuria ,Consider urinary,Consider urinary,Supplementary Table 3: Possible bleed codes,ICD-9-CM
+R31.1,Benign essential microscopic haematuria ,Consider urinary,Consider urinary,Supplementary Table 3: Possible bleed codes,ICD-10-CM
+R31.2,Other microscopic haematuria ,Consider urinary,Consider urinary,Supplementary Table 3: Possible bleed codes,ICD-10-CM
+R31.21,Asymptomatic microscopic haematuria,Consider urinary,Consider urinary,Supplementary Table 3: Possible bleed codes,ICD-10-CM
+R31.29,Other microscopic haematuria,Consider urinary,Consider urinary,Supplementary Table 3: Possible bleed codes,ICD-10-CM
+R31.9,"Haematuria, unspecified",Consider urinary,Consider urinary,Supplementary Table 3: Possible bleed codes,ICD-10-CM

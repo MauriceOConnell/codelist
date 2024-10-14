@@ -1,0 +1,7 @@
+﻿SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comment
+move out,,,,,
+64009001,Vertebrobasilar insufficiency,TIA - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],tia.snomed.txt And TIA_Caliber_EFI_LaurenCombined_v3.csv
+64009001,Vertebro-basilar insufficiency,TIA - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],tia.snomed.txt And TIA_Caliber_EFI_LaurenCombined_v3.csv
+64009001,Insufficiency - basilar artery,TIA - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],tia.snomed.txt And TIA_Caliber_EFI_LaurenCombined_v3.csv
+195199008,Vertebrobasilar artery syndrome (disorder),TIA - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],tia.snomed.txt And TIA_Caliber_EFI_LaurenCombined_v3.csv
+34781003,Vertebral artery syndrome (disorder),TIA - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],tia.snomed.txt And TIA_Caliber_EFI_LaurenCombined_v3.csv

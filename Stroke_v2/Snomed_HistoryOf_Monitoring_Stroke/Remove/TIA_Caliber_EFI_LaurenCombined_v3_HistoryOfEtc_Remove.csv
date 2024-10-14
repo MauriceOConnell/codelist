@@ -1,0 +1,3 @@
+﻿SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comment
+Remove,,,,,
+413124000,Stroke / transient ischaemic attack referral,Stroke,,['efi'], TIA_v2.csv

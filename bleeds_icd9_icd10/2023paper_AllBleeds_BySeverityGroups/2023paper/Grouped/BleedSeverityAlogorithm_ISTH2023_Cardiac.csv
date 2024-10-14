@@ -1,0 +1,6 @@
+﻿ICD-9_or_10-CM,Description,GroupNumber,Grouping,Table,ICD9_or_10
+423.0,Haemopericardium,Cardiac,Cardiac,Supplementary Table 1: Critical organ bleed disease codes,ICD-9-CM
+423.3,Cardiac tamponade ,Cardiac,Cardiac,Supplementary Table 1: Critical organ bleed disease codes,ICD-9-CM
+I23.0,Haemopericardium as current complication following acute myocardial infarction,Cardiac,Cardiac,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+ I31.2,"Haemopericardium, not elsewhere classified",Cardiac,Cardiac,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+I31.4,Cardiac tamponade,Cardiac,Cardiac,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM

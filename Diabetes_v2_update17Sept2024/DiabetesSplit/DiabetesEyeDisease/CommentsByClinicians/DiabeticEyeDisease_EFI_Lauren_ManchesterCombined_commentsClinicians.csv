@@ -1,0 +1,15 @@
+﻿SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comments
+move to neuropahty,,,,,
+193141005,Diabetic mononeuritis NOS,Diabetic Eye Disease,,['Lauren_codelist'],snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesToSeparate
+,,,,,
+,,,,,
+stay in diabetic eye disease,,,,,
+413180006,pan retinal photocoagulation for diabetes,Diabetic Eye Disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate
+,,,,,
+all checks for diabetes or referral,,,,,
+170757007,fundoscopy - diabetic check,Diabetic Eye Disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate
+313340009,seen in diabetic eye clinic,Diabetic Eye Disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate
+417681008,diabetic patient unsuitable for digital retinal photography,Diabetic Eye Disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate
+134395001,Diabetic retinopathy screening,Diabetic Eye Disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate
+408385003,Diabetic retinopathy 6 month review,Diabetic Eye Disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate
+248161000000101,Referral for diabetic retinopathy screening,Diabetic Eye Disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate

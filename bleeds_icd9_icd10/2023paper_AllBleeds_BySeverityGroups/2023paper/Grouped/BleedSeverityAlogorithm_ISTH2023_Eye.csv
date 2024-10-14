@@ -1,0 +1,60 @@
+﻿ICD-9_or_10-CM,Description,GroupNumber,Grouping,Table,ICD9_or_10
+360.43,"Haemophthalmias, except current injury",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-9-CM
+362.43,Haemorrhagic detachment of retinal pigment epithelium 362.81 Retinal haemorrhage,Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-9-CM
+363.6,Choroidal haemorrhage and rupture ,Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-9-CM
+363.61,"  Choroidal haemorrhage, unspecified ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-9-CM
+363.62,  Expulsive choroidal haemorrhage ,Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-9-CM
+363.63, Choroidal rupture ,Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-9-CM
+363.72,Haemorrhagic choroidal detachment 364.41 Hyphema of iris and ciliary body 376.32 Orbital haemorrhage,Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-9-CM
+379.23,Vitreous haemorrhage,Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-9-CM
+H05.23, Haemorrhage of orbit ,Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+H05.231, Haemorrhage of right orbit ,Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+H05.232,  Haemorrhage of left orbit ,Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+H05.233,  Haemorrhage of bilateral orbit ,Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+H05.239,Haemorrhage of unspecified orbit H21.0 Hyphema ,Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+H21.00,"  Hyphema, unspecified eye ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+H21.01,"  Hyphema, right eye ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+H21.02," Hyphema, left eye ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+H21.03,"Hyphema, bilateral",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+H31.30,Unspecified choroidal haemorrhage ,Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+H31.301,"  Unspecified choroidal haemorrhage, right eye ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+H31.302," Unspecified choroidal haemorrhage, left eye ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+H31.303," Unspecified choroidal haemorrhage, bilateral ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+H31.309,"Unspecified choroidal haemorrhage, unspecified eye",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+H31.31, Expulsive choroidal haemorrhage ,Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+H31.311," Expulsive choroidal haemorrhage, right eye ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+H31.312,"  Expulsive choroidal haemorrhage, left eye ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+H31.313,"  Expulsive choroidal haemorrhage, bilateral ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+H31.319,"Expulsive choroidal haemorrhage, unspecified eye ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+H31.41 ,Haemorrhagic choroidal detachment ,Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+H31.411," Haemorrhagic choroidal detachment, right eye ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+H31.412 ,"Haemorrhagic choroidal detachment, left eye ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+H31.413,"Haemorrhagic choroidal detachment, bilateral ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+H31.419,"Haemorrhagic choroidal detachment, unspecified eye",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+H35.6,Retinal haemorrhage ,Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+H35.60," Retinal haemorrhage, unspecified eye ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+H35.61," Retinal haemorrhage, right eye ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+H35.62," Retinal haemorrhage, left eye ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+H35.63," Retinal haemorrhage, bilateral ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+H35.73,Haemorrhagic detachment of retinal pigment epithelium ,Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+H35.731," Haemorrhagic detachment of retinal pigment epithelium, right eye ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+H35.732,"Haemorrhagic detachment of retinal pigment epithelium, left eye ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+H35.733,"Haemorrhagic detachment of retinal pigment epithelium, bilateral ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+H35.739,"Haemorrhagic detachment of retinal pigment epithelium, unspecified eye",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+H43.1 , Vitreous haemorrhage,Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+H43.10," Vitreous haemorrhage, unspecified eye ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+H43.11," Vitreous haemorrhage, right eye ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+H43.12," Vitreous haemorrhage, left eye ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+H43.13," Vitreous haemorrhage, bilateral ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+H44.81,Haemophthalmos ,Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+H44.811," Haemophthalmos, right eye ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+H44.812,"Haemophthalmos, left eye ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+H44.813," Haemophthalmos, bilateral ",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+H44.819,"Haemophthalmos, unspecified eye",Eye,Eye,Supplementary Table 1: Critical organ bleed disease codes,ICD-10-CM
+374.81,Haemorrhage of eyelid,Eye,Eye,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+377.42,Haemorrhage in optic nerve sheaths,Eye,Eye,Supplementary Table 2: Overt bleed disease codes ,ICD-9-CM
+H47.02,Haemorrhage in optic nerve sheath,Eye,Eye,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+H47.021,Haemorrhage in optic nerve ,Eye,Eye,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+H47.022,Haemorrhage in optic nerve ,Eye,Eye,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+H47.023 ,Haemorrhage in optic nerve,Eye,Eye,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
+H47.029,Haemorrhage in optic nerve,Eye,Eye,Supplementary Table 2: Overt bleed disease codes ,ICD-10-CM
